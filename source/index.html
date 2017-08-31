@@ -1,0 +1,43 @@
+---
+layout: full-width
+title: Ultroneous Organization
+title-slug: index
+nav-weight: 0
+---
+  <div class="orthofilter">
+      <label>
+        <input class="filter" onclick="indexFilter()" type="radio" checked name="postfilter" value="all"></input>
+        all posts
+      </label>
+    {% for category in site.categories %}
+      <label>
+        <input class="filter" onclick="indexFilter()" type="radio" name="postfilter" value="{{ category[0] }}"></input>
+        {{ category[0] }}s
+      </label>
+    {% endfor %}
+  </div>
+  <div class="orthofilter">
+      <label>
+        <input class="filter" onclick="indexFilter()" type="radio" checked name="tagfilter" value="all"></input>
+        all topics
+      </label>
+    {% for tag in site.tags %}
+      <label>
+        <input class="filter" onclick="indexFilter()" type="radio" name="tagfilter" value="{{ tag[0] }}"></input>
+        {{ tag[0] }}
+      </label>
+    {% endfor %}
+  </div>
+  <ul class="content-listing ">
+    {% for post in site.posts %}
+    {% unless post.hidden %}
+    {% assign posttags = post.tags | join: " " %}
+        <li class="listing {{ post.category }} {{ posttags }}">
+          <hr class="slender">
+          <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+          <br><span class="smaller">{% include post-info.html %}</span>  <br/>
+          <div>{{ post.excerpt }}</div> 
+        </li>
+    {% endunless %}
+    {% endfor %}
+  </ul>

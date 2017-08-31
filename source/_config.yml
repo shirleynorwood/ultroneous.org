@@ -1,0 +1,20 @@
+baseurl:
+title: Ultroneous Organization
+author: Spencer Campbell
+simple_search: http://google.com/search
+description: A blog about the prisoner's dilemma.
+name: ultroneous.org
+markdown: kramdown
+markdown_ext: "md"
+timezone: Europe/Lisbon
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
