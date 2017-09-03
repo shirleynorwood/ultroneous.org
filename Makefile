@@ -11,6 +11,7 @@ docker-build: source
 	docker run --rm -v $$PWD/source:/root/ultroneous.org/source -v $$PWD/build:/root/ultroneous.org/build ultroneous.org jekyll build --source source --destination build
 
 deploy: build
+	git push
 	rsync -rv --delete --exclude=share --exclude=grace-foundation build/ $(DOMAIN):$(DOCROOT)/
 
 test: source
