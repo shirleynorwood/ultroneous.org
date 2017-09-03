@@ -1,7 +1,7 @@
 ---
 title: What is ultroneous.org?
 title-slug: about
-nav-weight: 1
+nav-weight: 0
 ---
 
 It started as a blog, and now it's becoming a communication platform for [a cooperative]({% post_url 2017-08-19-cooperative %}).
