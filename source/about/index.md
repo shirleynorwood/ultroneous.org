@@ -1,19 +1,11 @@
 ---
-title: What is this?
+title: What is ultroneous.org?
 title-slug: about
 nav-weight: 1
 ---
 
-I'm just going to call it a blog. That's close enough.
+It started as a blog, and now it's becoming a communication platform for [a cooperative]({% post_url 2017-08-19-cooperative %}).
 
-{% newthought "I'm the author." %} My name is Spencer Campbell.{% sidenote "*Spencer* comes from [*dispensātor*](https://en.wiktionary.org/wiki/dispensator#Latin), in Latin. *Campbell* comes from [*cam*](https://en.wiktionary.org/wiki/cam#Scottish_Gaelic) and [*beul*](https://en.wiktionary.org/wiki/beul#Scottish_Gaelic), in Gaelic. My name means \"administrator of wry mouth\", which fits pretty well." %}
+{% newthought "You're welcome" %} to look around. You can write comments at the bottom of every page.
 
-I live in Portugal, in [Tamera](http://tamera.org), an ecovillage and peace research center.
-
-{% newthought "My main goal here" %} is to build up a common language with my readership.
-
-Sometimes I write articles, which are more about ideas, and sometimes I write journals, which are more about my life.{% sidenote "Sometimes -- though not so often -- I write plays, to show rather than tell something." %}
-
-{% newthought "What else?" %} You can write comments at the bottom of any page.
-
-If you have more questions, please ask!
+The place is in flux, so now is a good opportunity to put your voice in, if you want to help shape what it's going to be.
