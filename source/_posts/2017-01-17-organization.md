@@ -1,7 +1,7 @@
 ---
 title: Organization
 category: journal
-tags: organization language community home
+tags: organization language trust home
 ---
 
 Last summer, "organization" became the most important word in my life.

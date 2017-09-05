@@ -1,7 +1,7 @@
 ---
 title: Following Guidance
 category: journal
-tags: lucidity trust chaos
+tags: lucidity trust learning home
 ---
 
 The word "guidance", for spiritually inclined people, refers to the phenomenon of seemingly unrelated events conspiring to lead you in a remarkably appropriate direction.

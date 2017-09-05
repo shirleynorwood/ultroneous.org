@@ -1,12 +1,12 @@
 ---
 title: Winter Solstice
 category: journal
-tags: language community
+tags: language
 ---
 
 Today is the 28th winter solstice of my life, and I'm starting a blog.
 
-A little voice in my mind screams and screams, crying "let it not be so", when I think about what this means. It's going to be like recovering from muscular atrophy. I made a blog once before, but I had different intentions then. I only wanted to write. Now I want to communicate,{% sidenote "From Latin *commūnicātus*, which in turn comes from *commūnis*, the same etymological root that led to *communitas* (community). That's important. Please keep it in mind for the next several years of posts!" %} and that brings a whole other set of challenges with it.
+A little voice in my mind screams and screams, crying "let it not be so", when I think about what this means. It's going to be like recovering from muscular atrophy. I made a blog once before, but I had different intentions then. I only wanted to write. Now I want to communicate,{% sidenote "From Latin *commūnicātus*, which in turn comes from *commūnis*, the same etymological root that led to *communitas* (community)." %} and that brings a whole other set of challenges with it.
 
 Today I resolved to develop four of my weaknesses into strengths, over the next year:
 * Common{% sidenote "*Common* belongs to this verbal lineage, too." %} resources.

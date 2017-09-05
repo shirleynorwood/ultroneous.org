@@ -1,7 +1,7 @@
 ---
 title: A Cooperative
 category: article
-tags: language organization community home education
+tags: learning organization language home
 ---
 
 To make sense, this article needs to coin a couple terms. The first is "unbusiness".

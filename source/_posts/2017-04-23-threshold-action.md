@@ -1,7 +1,7 @@
 ---
 title: Threshold of Action
 category: journal
-tags: language community
+tags: trust lucidity organization
 ---
 
 I feel like something is about to happen.

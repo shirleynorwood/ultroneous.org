@@ -1,7 +1,7 @@
 ---
 title: How to Make a Lawless Society
 category: article
-tags: community organization language chaos trust
+tags: organization language trust
 ---
 
 Last month, as [previously mentioned]({% post_url 2017-02-20-constructive-resistance %}), I led a [sociocratic](https://en.wikipedia.org/wiki/Sociocracy) meeting to help a small ecovillage manage electricity better. It was a big success, and I want to explore what I think was the main reason why.

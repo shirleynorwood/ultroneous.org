@@ -1,7 +1,7 @@
 ---
 title: Space Time Thing
 category: article
-tags: organization language chaos
+tags: organization language
 hidden: yes
 ---
 

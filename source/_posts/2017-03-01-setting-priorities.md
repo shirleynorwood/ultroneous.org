@@ -1,7 +1,7 @@
 ---
 title: Setting Priorities
 category: journal
-tags: home love community organization
+tags: home love organization trust
 ---
 
 In the last month, it's become very clear that I need to meet certain objectives in the near future. I want to make a list of these, because I'm returning to Tamera tomorrow, and most likely everything will change again after that.

@@ -1,7 +1,7 @@
 ---
 title: Cooperative Living
 category: article
-tags: community home
+tags: home trust
 ---
 
 Do you have too little time or not enough money? There's a reason for that, and if you understand it, you can change it. Not only for yourself, but for everyone around you.

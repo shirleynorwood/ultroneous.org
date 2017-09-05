@@ -1,7 +1,7 @@
 ---
 title: More Poetry
 category: journal
-tags: love chaos
+tags: love learning
 ---
 
 I expanded the poem from [the last entry]({% post_url 2017-04-06-voice-apsu %}) into four stanzas.

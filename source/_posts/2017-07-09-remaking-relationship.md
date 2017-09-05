@@ -1,7 +1,7 @@
 ---
 title: Remaking Relationship
 category: journal
-tags: community language
+tags: language trust love
 ---
 
 I got stuck at a certain point, about a month ago, and now I want to get moving again.

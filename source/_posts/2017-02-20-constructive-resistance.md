@@ -1,7 +1,7 @@
 ---
 title: Constructive Resistance
 category: article
-tags: community language
+tags: lucidity
 ---
 
 I learned something by living in Tamera for two years. It might be the most useful social skill I know. It's so fundamental, so indispensable to the health of any community, that I think it must have many names.

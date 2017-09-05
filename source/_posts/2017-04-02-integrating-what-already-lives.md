@@ -1,7 +1,7 @@
 ---
 title: Integrating What Already Lives
 category: journal
-tags: language chaos love
+tags: organization trust
 ---
 
 I'm helping in the huge, overgrown garden of my friend, and thereby learning how life works. The other day I had an insight.
