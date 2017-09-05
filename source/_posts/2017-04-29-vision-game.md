@@ -1,7 +1,8 @@
 ---
 title: Vision Game
 category: article
-tags: community education
+tags: organization lucidity
+hidden: yes
 ---
 
 This is a first attempt at designing a game to help a group find a common purpose. As a working title, it's called Vision Game.
