@@ -15,4 +15,4 @@ deploy: build
 	rsync -rv --delete --exclude=share --exclude=grace-foundation build/ $(DOMAIN):$(DOCROOT)/
 
 test: source
-	jekyll serve --incremental --source source --destination build
+	jekyll serve --drafts --incremental --source source --destination build
