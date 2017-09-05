@@ -14,7 +14,7 @@ Instead, I added a new tag: *learning*.
 
 {% newthought "It seems appropriate" %} to emphasize this topic, given that I'm moving this blog toward becoming a communication platform for [a cooperative]({% post_url 2017-08-19-cooperative %}) that holds [kaizen]({% post_url 2016-12-25-kaizen-culture %}) as its highest value.
 
-I chose the word "learning", though, instead of "kaizen", because the meaning is more accessible to a wide audience. I could as well have chosen "improvement", but I prefer "learning". It more readily evokes what I mean.
+I chose the word "learning", though, instead of "kaizen", because the meaning is more accessible to a wide audience.{% sidenote "I could have chosen \"improvement\", but I prefer \"learning\". It's closer to the heart of what life is about." %}
 
 {% newthought "So far," %} I've only written [one post]({% post_url 2017-01-05-how-adults-fail %}) that really addresses *learning* directly.{% sidenote "I think it's the angriest post on the blog, to date. Most of the *education* posts carry a lot of anger. I expect this to change." %}
 
