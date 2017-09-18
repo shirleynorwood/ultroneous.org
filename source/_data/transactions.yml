@@ -1,0 +1,53 @@
+- date: 2017-09-17
+  amount: 50.0006
+  currency: BTC
+  from: World
+  to: Electrum Cold Storage
+- date: 2017-09-17
+  amount: 0.00656362
+  currency: BTC
+  from: World
+  to: BitFinex Exchange
+- date: 2017-09-17
+  amount: 0.09882043
+  currency: LTC
+  from: World
+  to: BitFinex Exchange
+- date: 2017-09-17
+  amount: 238.16714831
+  currency: ETH
+  from: World
+  to: BitFinex Exchange
+- date: 2017-09-17
+  amount: 1000
+  currency: XRP
+  from: World
+  to: BitFinex Exchange
+- date: 2017-09-17
+  amount: 0.00000044
+  currency: BCH
+  from: World
+  to: BitFinex Exchange
+- date: 2017-09-17
+  amount: 20
+  currency: LTC
+  from: World
+  to: Jax Wallet
+- date: 2017-09-17
+  amount: 999822.5
+  currency: PLAY
+  from: World
+  to: MyEtherWallet
+- date: 2017-09-17
+  amount: 0.003136833
+  currency: ETH
+  from: World
+  to: MyEtherWallet
+- date: 2017-09-18
+  time: 10:39
+  timezone: WEST
+  amount: 970
+  currency: EUR
+  from: Spencer Campbell
+  to: Diogo Amado
+  reason: "Paying Diogo's debts to Tamera."
