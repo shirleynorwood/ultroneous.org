@@ -24,7 +24,7 @@
     - "I'm writing experiences in the first person, and in each experience I'm identifying myself with a gerund phrase."
     - "I'm doing this in bed, feeling a little concerned about setting this as a precedent."
 - pattern: "writing a macro"
-  author: spencer@ultroneous.org
+  observer: spencer@ultroneous.org
   date: 2017-09-19
   time: 12:12:43
   timezone: +0100
@@ -33,7 +33,7 @@
     - "I noticed my intention to write many text entries in the same format, so I decided to write a macro in Vim to make that easier."
     - "I felt some tension with my wish to learn emacs."
 - pattern: "recording observations"
-  author: spencer@ultroneous.org
+  observer: spencer@ultroneous.org
   date: 2017-09-19
   time: 12:16:25
   timezone: +0100
@@ -42,7 +42,7 @@
     - "I'm changing the data structure for recording observations, and I think I'm improving it."
     - "I feel tension about how I'm writing notes, because I'm not identifying with gerund phrases, like I did in the morning, and unsure if this is better or worse."
 - pattern: "deciding what to do"
-  author: spencer@ultroneous.org
+  observer: spencer@ultroneous.org
   date: 2017-09-19
   time: 12:21:02
   timezone: +0100
