@@ -68,3 +68,17 @@
   pattern: "writing a macro"
   quality: 288
   note: "I'm adding a line to my vimrc file to make it easy for me to commit a new observation to ultroneous.org, from now on."
+- observer: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 12:47:14
+  timezone: +0100
+  pattern: "caring for data"
+  quality: 195
+  note: "I'm deleting older observations that don't have the same data structure as the last ones."
+- observer: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 12:49:06
+  timezone: +0100
+  pattern: "taking a step back"
+  quality: 201
+  note: "I'm noticing myself doing something below quality 200, so I'm undoing it, and thinking about how I can do it better."
