@@ -90,3 +90,10 @@
   pattern: "deciding what to do"
   quality: 228
   note: "I'm resting on a couch, feeling sick, wanting to step into service for the cooperative, wanting to learn emacs, wanting to visit friends."
+- observer: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 13:39:57
+  timezone: +0100
+  pattern: "looking at the kanban"
+  quality: 250
+  note: "I'm checking the activity stream on kanban.ultroneous.org."
