@@ -61,3 +61,10 @@
   pattern: "completing a task"
   quality: 311
   note: "I'm noticing that what I intended to do is now done, and consciously clearing my mind to open up for whatever comes next."
+- observer: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 12:40:35
+  timezone: +0100
+  pattern: "writing a macro"
+  quality: 288
+  note: "I'm adding a line to my vimrc file to make it easy for me to commit a new observation to ultroneous.org, from now on."
