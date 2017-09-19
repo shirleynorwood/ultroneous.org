@@ -97,3 +97,17 @@
   pattern: "looking at the kanban"
   quality: 250
   note: "I'm checking the activity stream on kanban.ultroneous.org."
+- observer: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 13:42:35
+  timezone: +0100
+  pattern: "communicating with the cooperative online"
+  quality: 230
+  note: "I'm replying to Diogo's comment on project 1 task 33, unsure about whether he'll see it if I comment directly, which makes me want to check my email."
+- observer: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 14:04:47
+  timezone: +0100
+  pattern: "learning freely"
+  quality: 250
+  note: "I'm looking into emacs, and other text editors, like yi."
