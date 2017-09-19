@@ -89,3 +89,10 @@
   pattern: "fantasizing"
   quality: 310
   note: "I'm imagining recording observations during a cooperative meeting, feeling proud of the system I just developed."
+- observer: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 12:55:05
+  timezone: +0100
+  pattern: "writing a macro"
+  quality: 310
+  note: "I'm improving my observation-recording Vim macros, so that I can record an observation almost instantly, no matter what files I have open."
