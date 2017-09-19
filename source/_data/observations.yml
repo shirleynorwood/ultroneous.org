@@ -83,3 +83,10 @@
   pattern: "caring for data"
   quality: 225
   note: "I'm collapsing earlier multi-note observations into single-notes, shortly before lunch."
+- observer: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 13:34:45
+  timezone: +0100
+  pattern: "deciding what to do"
+  quality: 228
+  note: "I'm resting on a couch, feeling sick, wanting to step into service for the cooperative, wanting to learn emacs, wanting to visit friends."
