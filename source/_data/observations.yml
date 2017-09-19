@@ -1,18 +1,18 @@
-- name: "staying awake in bed"
+- pattern: "staying awake in bed"
   observer: "spencer@ultroneous.org"
   date: 2017-09-19
-  time: 07:22
-  timezone: WEST
+  time: 07:22:00
+  timezone: +0100
   quality: 180
   experiences:
     - "I'm still feeling nauseous from my stomach virus."
     - "I'm thinking to get up early enough to build with clay before breakfast, but I decide not to."
     - "I'm thinking about my life, especially what I intend to do today."
-- name: "recording observations"
+- pattern: "recording observations"
   observer: "spencer@ultroneous.org"
   date: 2017-09-19
-  time: 07:30
-  timezone: WEST
+  time: 07:30:00
+  timezone: +0100
   quality: 310
   experiences:
     - "There's no precedent for this in the cooperative, so I'm designing it as I go."
@@ -23,3 +23,34 @@
     - "I'm writing a list of experiences that I go through as I observe."
     - "I'm writing experiences in the first person, and in each experience I'm identifying myself with a gerund phrase."
     - "I'm doing this in bed, feeling a little concerned about setting this as a precedent."
+- pattern: "writing a macro"
+  author: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 12:12:43
+  timezone: +0100
+  quality: 288
+  notes:
+    - "I noticed my intention to write many text entries in the same format, so I decided to write a macro in Vim to make that easier."
+    - "I felt some tension with my wish to learn emacs."
+- pattern: "recording observations"
+  author: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 12:16:25
+  timezone: +0100
+  quality: 288
+  notes:
+    - "I'm changing the data structure for recording observations, and I think I'm improving it."
+    - "I feel tension about how I'm writing notes, because I'm not identifying with gerund phrases, like I did in the morning, and unsure if this is better or worse."
+- pattern: "deciding what to do"
+  author: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 12:21:02
+  timezone: +0100
+  quality: 310
+  notes:
+    - "I experienced a moment of mental quiet, readiness and curiosity."
+    - "I'm looking at my private to-do list."
+    - "My attention is gliding off of the tasks there, because they seem irrelevant to me at the moment."
+    - "My attention is wandering to the way I'm recording observations."
+    - "I'm wondering if it would be an improvement to change the data structure so that each entry contains only one notes, because it seems each note carries a different quality."
+    - "I'm deciding to commit my observations, then change my Vim macro, and change the observation data structure."
