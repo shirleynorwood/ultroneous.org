@@ -54,3 +54,10 @@
     - "My attention is wandering to the way I'm recording observations."
     - "I'm wondering if it would be an improvement to change the data structure so that each entry contains only one notes, because it seems each note carries a different quality."
     - "I'm deciding to commit my observations, then change my Vim macro, and change the observation data structure."
+- observer: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 12:36:24
+  timezone: +0100
+  pattern: "completing a task"
+  quality: 311
+  note: "I'm noticing that what I intended to do is now done, and consciously clearing my mind to open up for whatever comes next."
