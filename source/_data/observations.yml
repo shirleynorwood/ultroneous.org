@@ -4,56 +4,36 @@
   timezone: +0100
   pattern: "staying awake in bed"
   quality: 180
-  notes:
-    - "I'm still feeling nauseous from my stomach virus."
-    - "I'm thinking to get up early enough to build with clay before breakfast, but I decide not to."
-    - "I'm thinking about my life, especially what I intend to do today."
+  note: "I'm still feeling nauseous from my stomach virus. I'm thinking to get up early enough to build with clay before breakfast, but I decide not to. I'm thinking about my life, especially what I intend to do today."
 - observer: "spencer@ultroneous.org"
   date: 2017-09-19
   time: 07:30:00
   timezone: +0100
   pattern: "recording observations"
   quality: 310
-  notes:
-    - "There's no precedent for this in the cooperative, so I'm designing it as I go."
-    - "I'm writing well-formed YAML in my native language, English."
-    - "I'm recording the date, time and timezone when I began to record the observation."
-    - "I'm giving the observation a gerund phrase for a name."
-    - "I'm placing my observation on the map of consciousness, to subjectively evaluate the quality of it."
-    - "I'm writing a list of experiences that I go through as I observe."
-    - "I'm writing experiences in the first person, and in each experience I'm identifying myself with a gerund phrase."
-    - "I'm doing this in bed, feeling a little concerned about setting this as a precedent."
+  note: "There's no precedent for this in the cooperative, so I'm designing it as I go. I'm writing well-formed YAML in my native language, English. I'm recording the date, time and timezone when I began to record the observation. I'm giving the observation a gerund phrase for a name. I'm placing my observation on the map of consciousness, to subjectively evaluate the quality of it. I'm writing a list of experiences that I go through as I observe. I'm writing experiences in the first person, and in each experience I'm identifying myself with a gerund phrase. I'm doing this in bed, feeling a little concerned about setting this as a precedent."
 - observer: spencer@ultroneous.org
   date: 2017-09-19
   time: 12:12:43
   timezone: +0100
   pattern: "writing a macro"
   quality: 288
-  notes:
-    - "I noticed my intention to write many text entries in the same format, so I decided to write a macro in Vim to make that easier."
-    - "I felt some tension with my wish to learn emacs."
+  note: "I noticed my intention to write many text entries in the same format, so I decided to write a macro in Vim to make that easier. I felt some tension with my wish to learn emacs."
 - observer: spencer@ultroneous.org
   date: 2017-09-19
   time: 12:16:25
   timezone: +0100
   pattern: "recording observations"
   quality: 288
-  notes:
-    - "I'm changing the data structure for recording observations, and I think I'm improving it."
-    - "I feel tension about how I'm writing notes, because I'm not identifying with gerund phrases, like I did in the morning, and unsure if this is better or worse."
+  note:
+    - "I'm changing the data structure for recording observations, and I think I'm improving it. I feel tension about how I'm writing notes, because I'm not identifying with gerund phrases, like I did in the morning, and unsure if this is better or worse."
 - observer: spencer@ultroneous.org
   date: 2017-09-19
   time: 12:21:02
   timezone: +0100
   pattern: "deciding what to do"
   quality: 310
-  notes:
-    - "I experienced a moment of mental quiet, readiness and curiosity."
-    - "I'm looking at my private to-do list."
-    - "My attention is gliding off of the tasks there, because they seem irrelevant to me at the moment."
-    - "My attention is wandering to the way I'm recording observations."
-    - "I'm wondering if it would be an improvement to change the data structure so that each entry contains only one notes, because it seems each note carries a different quality."
-    - "I'm deciding to commit my observations, then change my Vim macro, and change the observation data structure."
+  note: "I experienced a moment of mental quiet, readiness and curiosity. I'm looking at my private to-do list. My attention is gliding off of the tasks there, because they seem irrelevant to me at the moment. My attention is wandering to the way I'm recording observations. I'm wondering if it would be an improvement to change the data structure so that each entry contains only one notes, because it seems each note carries a different quality. I'm deciding to commit my observations, then change my Vim macro, and change the observation data structure."
 - observer: spencer@ultroneous.org
   date: 2017-09-19
   time: 12:36:24
@@ -96,3 +76,10 @@
   pattern: "writing a macro"
   quality: 310
   note: "I'm improving my observation-recording Vim macros, so that I can record an observation almost instantly, no matter what files I have open."
+- observer: spencer@ultroneous.org
+  date: 2017-09-19
+  time: 12:59:44
+  timezone: +0100
+  pattern: "caring for data"
+  quality: 225
+  note: "I'm collapsing earlier multi-note observations into single-notes, shortly before lunch."
