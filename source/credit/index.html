@@ -1,0 +1,90 @@
+---
+title: Cooperative Credit System
+title-slug: finance
+nav-weight: 3
+---
+
+<table class="transactions">
+    <tr class="headers">
+        <td>
+            Date
+        </td>
+        <td>
+            Amount
+        </td>
+        <td>
+            Currency
+        </td>
+        <td>
+            Giving Account
+        </td>
+        <td>
+            Receiving Account
+        </td>
+    </tr>
+{% for transaction in site.data.transactions %}
+    <tr>
+        <td>
+            {{ transaction.date }}
+        </td>
+        <td>
+            {{ transaction.amount }}
+        </td>
+        <td>
+            {{ transaction.currency }}
+        </td>
+        <td>
+            {{ transaction.from }}
+        </td>
+        <td>
+            {{ transaction.to }}
+        </td>
+    </tr>
+{% endfor %}
+</table>
+
+{% capture accounts %}
+    {% for transaction in site.data.transactions %}
+        {{ transaction.from }}, {{ transaction.to }}, 
+    {% endfor %}
+{% endcapture %}
+{% assign accounts = accounts | split: ", " | uniq | compact %}
+
+{% capture currencies %}
+    {% for transaction in site.data.transactions %}
+        {{ transaction.currency }}, 
+    {% endfor %}
+{% endcapture %}
+{% assign currencies = currencies | split: ", " | uniq | compact %}
+
+<table>
+    <tr>
+    <td></td>
+    {% for currency in currencies %}
+        <td>
+            {{ currency }}
+        </td>
+    {% endfor %}
+    </tr>
+{% for account in accounts %}
+    <tr>
+        <td>
+            {{ account }}
+        </td>
+    {% for currency in currencies %}
+        <td>
+            {% assign sum = 0 %}
+            {% for transaction in site.data.transactions %}
+                {% if transaction.from == account %} {% if transaction.currency == currency %}
+                    {% assign sum = sum | minus: transaction.amount %}
+                {% endif %} {% endif %}
+                {% if transaction.to == account %} {% if transaction.currency == currency %}
+                    {% assign sum = sum | plus: transaction.amount %}
+                {% endif %} {% endif %}
+            {% endfor %}
+            {{ sum }}
+        </td>
+    {% endfor %}
+    </tr>
+{% endfor %}
+</table>
