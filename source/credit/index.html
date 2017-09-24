@@ -45,17 +45,19 @@ nav-weight: 3
 
 {% capture accounts %}
     {% for transaction in site.data.transactions %}
-        {{ transaction.from }}, {{ transaction.to }}, 
+        ,{{ transaction.from }},{{ transaction.to }}
     {% endfor %}
 {% endcapture %}
-{% assign accounts = accounts | split: ", " | uniq | compact %}
+{% assign accounts = accounts | remove_first: "," %}
+{% assign accounts = accounts | split: "," | uniq | compact %}
 
 {% capture currencies %}
     {% for transaction in site.data.transactions %}
-        {{ transaction.currency }}, 
+        ,{{ transaction.currency }}
     {% endfor %}
 {% endcapture %}
-{% assign currencies = currencies | split: ", " | uniq | compact %}
+{% assign currencies = currencies | remove_first: "," %}
+{% assign currencies = currencies | split: "," | uniq | compact %}
 
 <table>
     <tr>
