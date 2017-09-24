@@ -4,6 +4,9 @@ title-slug: finance
 nav-weight: 3
 ---
 
+<h2>
+    Transactions
+</h2>
 <table class="transactions">
     <tr class="headers">
         <td>
@@ -43,21 +46,15 @@ nav-weight: 3
 {% endfor %}
 </table>
 
-{% capture accounts %}
-    {% for transaction in site.data.transactions %}
-        ,{{ transaction.from }},{{ transaction.to }}
-    {% endfor %}
-{% endcapture %}
-{% assign accounts = accounts | remove_first: "," %}
-{% assign accounts = accounts | split: "," | uniq | compact %}
+<h2>
+    Balances
+</h2>
 
-{% capture currencies %}
-    {% for transaction in site.data.transactions %}
-        ,{{ transaction.currency }}
-    {% endfor %}
-{% endcapture %}
-{% assign currencies = currencies | remove_first: "," %}
-{% assign currencies = currencies | split: "," | uniq | compact %}
+{% assign giving_accounts = site.data.transactions | map: "from" | join: "|" %}
+{% assign receiving_accounts = site.data.transactions | map: "to" | join: "|" %}
+{% assign accounts = giving_accounts | append: "|" | append: receiving_accounts | split: "|" | uniq | sort %}
+
+{% assign currencies = site.data.transactions | map: "currency" | uniq | sort %}
 
 <table>
     <tr>
@@ -77,16 +74,17 @@ nav-weight: 3
         <td>
             {% assign sum = 0 %}
             {% for transaction in site.data.transactions %}
-                {% if transaction.from == account %} {% if transaction.currency == currency %}
+                {% if transaction.from == account and transaction.currency == currency %}
                     {% assign sum = sum | minus: transaction.amount %}
-                {% endif %} {% endif %}
-                {% if transaction.to == account %} {% if transaction.currency == currency %}
+                {% endif %}
+                {% if transaction.to == account and transaction.currency == currency %}
                     {% assign sum = sum | plus: transaction.amount %}
-                {% endif %} {% endif %}
+                {% endif %}
             {% endfor %}
-            {{ sum }}
+            {{ sum | round }}
         </td>
     {% endfor %}
     </tr>
 {% endfor %}
 </table>
+
