@@ -12,6 +12,7 @@ docker-build: source
 
 deploy: build
 	git push
+	if [ -d build ] ; then rm -r build ; fi
 	rsync -rv --delete --exclude=share --exclude=grace-foundation build/ $(DOMAIN):$(DOCROOT)/
 
 test: source
