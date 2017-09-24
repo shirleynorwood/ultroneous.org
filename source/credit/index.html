@@ -4,11 +4,13 @@ title-slug: finance
 nav-weight: 3
 ---
 
-{% assign giving_accounts = site.data.transactions | map: "from" | join: "|" %}
-{% assign receiving_accounts = site.data.transactions | map: "to" | join: "|" %}
+{% assign transactions = site.data.transactions | sort: "date" %}
+
+{% assign giving_accounts = transactions | map: "from" | join: "|" %}
+{% assign receiving_accounts = transactions | map: "to" | join: "|" %}
 {% assign accounts = giving_accounts | append: "|" | append: receiving_accounts | split: "|" | uniq | sort %}
 
-{% assign currencies = site.data.transactions | map: "currency" | uniq | sort %}
+{% assign currencies = transactions | map: "currency" | uniq | sort %}
 
 <h2>
     Balances
@@ -30,7 +32,7 @@ nav-weight: 3
     {% for currency in currencies %}
         <td>
             {% assign sum = 0 %}
-            {% for transaction in site.data.transactions %}
+            {% for transaction in transactions %}
                 {% if transaction.from == account and transaction.currency == currency %}
                     {% assign sum = sum | minus: transaction.amount %}
                 {% endif %}
@@ -65,8 +67,11 @@ nav-weight: 3
         <td>
             Receiving Account
         </td>
+        <td>
+            Reason
+        </td>
     </tr>
-{% for transaction in site.data.transactions %}
+{% for transaction in transactions %}
     <tr>
         <td>
             {{ transaction.date }}
@@ -82,6 +87,9 @@ nav-weight: 3
         </td>
         <td>
             {{ transaction.to }}
+        </td>
+        <td>
+            {{ transaction.reason }}
         </td>
     </tr>
 {% endfor %}
