@@ -4620,7 +4620,7 @@
   amount: 79.99
   currency: ETH
   from: Bitfinex
-  to: "0xC6fb0c93231f854eF5E62Bdb141eE5e366f260e8"
+  to: Ethereum
   reason: "Withdrawal"
 - date: 2017-09-13
   time: 21:40:27
@@ -4628,7 +4628,7 @@
   amount: 50.0
   currency: BTC
   from: Bitfinex
-  to: 1L7RvFH7znVqCnKnSkYYyZ8AyZLELASucg
+  to: Bitcoin
   reason: "Withdrawal"
 - date: 2017-09-13
   time: 20:15:26
@@ -4636,7 +4636,7 @@
   amount: 0.0006
   currency: BTC
   from: Bitfinex
-  to: 1L7RvFH7znVqCnKnSkYYyZ8AyZLELASucg
+  to: Bitcoin
   reason: "Withdrawal"
 - date: 2017-09-13
   time: 14:46:50
@@ -4644,14 +4644,14 @@
   amount: 20.0
   currency: LTC
   from: Bitfinex
-  to: LMNbHrafcmJDKJwv7KhDDiiUnNDA7UcLtA
+  to: Litecoin
   reason: "Withdrawal"
 - date: 2017-09-14
   time: 14:06:27
   timezone: UTC
   amount: 79.986863
   currency: ETH
-  from: "0xC6fb0c93231f854eF5E62Bdb141eE5e366f260e8"
+  from: Ethereum
   to: "World"
   reason: "Purchase of Herocoin"
 - date: 2017-09-14
@@ -4660,5 +4660,5 @@
   amount: 999822.5
   currency: PLAY
   from: World
-  to: MyEtherWallet
+  to: Ethereum
   reason: "Purchase of Herocoin"
