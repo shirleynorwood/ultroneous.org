@@ -4620,7 +4620,7 @@
   amount: 79.99
   currency: ETH
   from: Bitfinex
-  to: 0xC6fb0c93231f854eF5E62Bdb141eE5e366f260e8
+  to: "0xC6fb0c93231f854eF5E62Bdb141eE5e366f260e8"
   reason: "Withdrawal"
 - date: 2017-09-13
   time: 21:40:27
@@ -4650,6 +4650,6 @@
   time: 14:06:27
   amount: 79.986863
   currency: ETH
-  from: "0xc6fb0c93231f854ef5e62bdb141ee5e366f260e8"
+  from: "0xC6fb0c93231f854eF5E62Bdb141eE5e366f260e8"
   to: "World"
   reason: "Purchase of Herocoin"
