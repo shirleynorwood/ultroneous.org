@@ -4614,3 +4614,35 @@
   from: Bitfinex
   to: World
   reason: "Bitfinex trade 66683723"
+- date: 2017-09-14
+  time: 10:41:38
+  timezone: UTC
+  amount: 79.99
+  currency: ETH
+  from: Bitfinex
+  to: 0xC6fb0c93231f854eF5E62Bdb141eE5e366f260e8
+  reason: "Withdrawal"
+- date: 2017-09-13
+  time: 21:40:27
+  timezone: UTC
+  amount: 50.0
+  currency: BTC
+  from: Bitfinex
+  to: 1L7RvFH7znVqCnKnSkYYyZ8AyZLELASucg
+  reason: "Withdrawal"
+- date: 2017-09-13
+  time: 20:15:26
+  timezone: UTC
+  amount: 0.0006
+  currency: BTC
+  from: Bitfinex
+  to: 1L7RvFH7znVqCnKnSkYYyZ8AyZLELASucg
+  reason: "Withdrawal"
+- date: 2017-09-13
+  time: 14:46:50
+  timezone: UTC
+  amount: 20.0
+  currency: LTC
+  from: Bitfinex
+  to: LMNbHrafcmJDKJwv7KhDDiiUnNDA7UcLtA
+  reason: "Withdrawal"
