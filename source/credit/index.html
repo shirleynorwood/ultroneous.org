@@ -4,6 +4,47 @@ title-slug: finance
 nav-weight: 3
 ---
 
+{% assign giving_accounts = site.data.transactions | map: "from" | join: "|" %}
+{% assign receiving_accounts = site.data.transactions | map: "to" | join: "|" %}
+{% assign accounts = giving_accounts | append: "|" | append: receiving_accounts | split: "|" | uniq | sort %}
+
+{% assign currencies = site.data.transactions | map: "currency" | uniq | sort %}
+
+<h2>
+    Balances
+</h2>
+<table>
+    <tr>
+    <td></td>
+    {% for currency in currencies %}
+        <td>
+            {{ currency }}
+        </td>
+    {% endfor %}
+    </tr>
+{% for account in accounts %}
+    <tr>
+        <td>
+            {{ account }}
+        </td>
+    {% for currency in currencies %}
+        <td>
+            {% assign sum = 0 %}
+            {% for transaction in site.data.transactions %}
+                {% if transaction.from == account and transaction.currency == currency %}
+                    {% assign sum = sum | minus: transaction.amount %}
+                {% endif %}
+                {% if transaction.to == account and transaction.currency == currency %}
+                    {% assign sum = sum | plus: transaction.amount %}
+                {% endif %}
+            {% endfor %}
+            {{ sum | round }}
+        </td>
+    {% endfor %}
+    </tr>
+{% endfor %}
+</table>
+
 <h2>
     Transactions
 </h2>
@@ -45,46 +86,3 @@ nav-weight: 3
     </tr>
 {% endfor %}
 </table>
-
-<h2>
-    Balances
-</h2>
-
-{% assign giving_accounts = site.data.transactions | map: "from" | join: "|" %}
-{% assign receiving_accounts = site.data.transactions | map: "to" | join: "|" %}
-{% assign accounts = giving_accounts | append: "|" | append: receiving_accounts | split: "|" | uniq | sort %}
-
-{% assign currencies = site.data.transactions | map: "currency" | uniq | sort %}
-
-<table>
-    <tr>
-    <td></td>
-    {% for currency in currencies %}
-        <td>
-            {{ currency }}
-        </td>
-    {% endfor %}
-    </tr>
-{% for account in accounts %}
-    <tr>
-        <td>
-            {{ account }}
-        </td>
-    {% for currency in currencies %}
-        <td>
-            {% assign sum = 0 %}
-            {% for transaction in site.data.transactions %}
-                {% if transaction.from == account and transaction.currency == currency %}
-                    {% assign sum = sum | minus: transaction.amount %}
-                {% endif %}
-                {% if transaction.to == account and transaction.currency == currency %}
-                    {% assign sum = sum | plus: transaction.amount %}
-                {% endif %}
-            {% endfor %}
-            {{ sum | round }}
-        </td>
-    {% endfor %}
-    </tr>
-{% endfor %}
-</table>
-
