@@ -5,7 +5,7 @@
   currency: BCH
   from: World
   to: Bitfinex
-  reason: "Donation from Spencer."
+  reason: "Donation from Spencer"
 - date: 2017-09-13
   time: 00:04:40
   timezone: UTC
@@ -13,7 +13,7 @@
   currency: BCH
   from: World
   to: Bitfinex
-  reason: "Donation from Spencer."
+  reason: "Donation from Spencer"
 - date: 2017-09-18
   time: 10:39:00
   timezone: WEST
@@ -21,7 +21,7 @@
   currency: EUR
   from: Spencer Campbell
   to: World
-  reason: "Paying Diogo's debts to Tamera."
+  reason: "Paying Diogo's debts to Tamera"
 - date: 2017-09-13
   time: 08:13:33
   timezone: UTC
@@ -4646,3 +4646,10 @@
   from: Bitfinex
   to: LMNbHrafcmJDKJwv7KhDDiiUnNDA7UcLtA
   reason: "Withdrawal"
+- date: 2017-09-14
+  time: 14:06:27
+  amount: 79.986863
+  currency: ETH
+  from: "0xc6fb0c93231f854ef5e62bdb141ee5e366f260e8"
+  to: "World"
+  reason: "Purchase of Herocoin"
