@@ -42,7 +42,7 @@ Will you find someone who knows HTML, CSS and Javascript, and wants to contribut
 {% marginfigure "https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" "This website is now officially a [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks). [(source)](https://creativecommons.org/about/downloads/)" %}
 I made an open source code repository for the site, which you can find [here](https://github.com/ultroneous-org/ultroneous.org). That should be enough information for someone to contribute, if they already have the right skills for the job.
 
-{% newthought "Other ideas for cooperation" %} will go on [this page](/cooperation), as they arise.
+{% newthought "Other ideas for cooperation" %} will go on [this page](/cooperation),{% sidenote "UPDATE: As of 2017-09-24, the cooperation page was eliminated, in favor of using [Kanboard](https://kanboard.net/)." %} as they arise.
 
 It's a very modest start. Hopefully it's enough for those of you who want to get involved, right here and right now, to contribute your time, energy and intelligence in a meaningful way.
 
