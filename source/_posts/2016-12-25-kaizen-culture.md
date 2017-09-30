@@ -1,7 +1,7 @@
 ---
 title: Kaizen Culture
 category: journal
-tags: organization home
+tags: organization home learning
 ---
 
 Something important happened, over the last half-century, in the interactions between the United States and Japan.
