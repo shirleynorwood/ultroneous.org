@@ -4662,3 +4662,19 @@
   from: World
   to: Ethereum
   reason: "Purchase of Herocoin"
+- date: 2017-09-30
+  time: 12:21
+  timezone: WEST
+  amount: 9.95
+  currency: EUR
+  from: Spencer Campbell
+  to: World
+  reason: "Purchase of sonhos.casa domain"
+- date: 2017-09-30
+  time: 12:21
+  timezone: WEST
+  amount: 979.95
+  currency: EUR
+  from: World
+  to: Spencer Campbell
+  reason: "Donation from Spencer"
