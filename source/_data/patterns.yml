@@ -64,3 +64,9 @@
     - "I encourage my manager to make requests to me freely, without worrying about what I want."
     - "When I'm asked to do something I am unwilling to do, I clearly refuse, and offer an alternative."
     - "When I see a way to serve the community better, which I'm willing to do, I offer the idea to my manager, without concern for what answer comes back."
+- name: "managing a team"
+  elements:
+    - "I make sure everyone on my team has read One-Minute Manager."
+    - "I work to keep all the tasks on my team's kanban clear, as one-minute goals."
+    - "I call attention to good performance in my team, and celebrate it with one-minute praisings."
+    - "I call attention to poor performance in my team, and celebrate it with one-minute reprimands."
