@@ -79,7 +79,7 @@ Searching for a quick way to get back to Portugal to meet with Spencer I read a 
 
 When I met with him magic happened immediately. We were exactly in the same frequency wave of thought of intention of activism of everything. He quickly fell in love with crypto as well and we, two pirates together, initiated the ride of our lives.
 
-{% newthought "We drove back" %} to Portugal and met with Spencer, who had the structure for the creation of this cooperative incredibly prepared and studied. I was part of other business cooperatives and I can safely say that the work that we did in the first day surpassed months of work in a normal business coop.{% sidenote "Not surprising, since we are an unbusiness after all!" %}
+{% newthought "We drove back" %} to Portugal and met with Spencer, who had the structure for the creation of this cooperative incredibly prepared and studied. I was part of other business cooperatives and I can safely say that the work that we did in the first day surpassed months of work in a normal business coop. Not surprising, since we are an unbusiness after all!
 
 We got introduced to a completely different way of work from the economical to the social aspect. Everything was still like a dream coming to life. He is the organiser and he organised us incredibly. Every time that we met, our minds were clear and our goals clearly set. We were introduced to the techniques of one-minute management and our productivity was immense, at least compared to what I was used to. I'm pretty sure in the future even this amount of productivity will seem small in comparison.
 
