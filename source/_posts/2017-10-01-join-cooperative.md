@@ -1,4 +1,8 @@
-How I came to join the Cooperative
+---
+title: How I came to join the Cooperative
+author: dioalma@gmail.com
+category: journal
+---
 
 The year is 2017, and I am with Ferreira, a great friend of mine, going to visit his cousin. I tell him: “Get ready because for the next hour we will only be talking about Cryptocurrency.” and he replies: “I know.”
 One hour later we are leaving his Cousin house with a stash of more Euro bills than what I can count in less than ten minutes.
