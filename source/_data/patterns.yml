@@ -71,3 +71,9 @@
     - "I work to keep all the tasks on my team's kanban clear, as one-minute goals."
     - "I call attention to good performance in my team, and celebrate it with one-minute praisings."
     - "I call attention to poor performance in my team, and celebrate it with one-minute reprimands."
+  subpatterns:
+    - "setting due dates on tasks"
+- name: "setting due dates on tasks"
+  elements:
+    - "I notice when a task my team is doing or planning has no due date, or the due date is past, and call attention to it."
+    - "I inquire into my team's beliefs to estimate the exact day when we expect a task to be done, and propose to set its due date to that."
