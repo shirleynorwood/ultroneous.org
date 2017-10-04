@@ -1,0 +1,7 @@
+- name: Casa Alma
+  wellness: 100
+  holders:
+    - Maria Alma
+    - Dio Alma
+  children:
+    - Rey Alma
