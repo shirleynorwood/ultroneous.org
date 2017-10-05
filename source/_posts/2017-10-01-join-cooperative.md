@@ -61,13 +61,13 @@ With our freedom regained it was time to find a safe place that we could call ho
 
 When we got to Austria, with the intention to register Rey as Austrian and expecting to finally fall in the arms of a loving family, we got presented with very similar issues from where we came from. By now it started to become even more clear that no matter where we go in the world we will always have problems as long as we don't have financial independence. I know that this might seem obvious, and until now I had been doing several jobs here and there to pay for the food and rents, but not enough to pay the debts that in the mean time I had made with Tamera and with a dear friend of mine.
 
-During our stay in Austria we find out that Maria is pregnant, this time she is going to have the labour in an Hospital in Austria, not something that we can completly celebrate because there was a reason why we wanted to have a natural labour in the first place, and not that that reason was wrong, just that this is somehow what we, almost without really talking about naturally decided to do(to go to the hospital this time from the begining).
+During our stay in Austria we find out that Maria is pregnant. This time she is going to have the labour in a hospital in Austria, not something that we can completely celebrate because there was a reason why we wanted to have a natural labour in the first place, and not that that reason was wrong, just that this is somehow what we, almost without really talking about, naturally decided to do: go to the hospital this time from the beginning.
 
-There is absolutly no more time to continue living in this instability, and the desperation at this point was so high that thinking rationaly was for me really out of the picture, the emotional tention between us as a couple as been imense and for far too long already it was unsustainable. I knew that something would have to happen, for this I decided to leave.
+There is absolutely no more time to continue living in this instability, and the desperation at this point was so high that thinking rationally was for me really out of the picture. The emotional tension between us as a couple has been immense, and for far too long already it was unsustainable. I knew that something would have to happen, and for this I decided to leave.
 
-I decide it is time for me to leave and go and find a way that I not only could find peace with money but also invite it fully into my life, as this was an essencial first step in bringing stability for the family.
+{% newthought "I decided it was time" %} for me to leave and go and find a way that I not only could find peace with money but also invite it fully into my life, as this was an essential first step in bringing stability for the family.
 
-{% newthought "For the first time" %} the Alma family gets separated without any date of return. It was a very hard moment but no option seemed to be available.
+For the first time the Alma family gets separated without any date of return. It was a very hard moment but no option seemed to be available.
 
 I left with fifty Euros in my pocket and a backpack with a blanket and my laptop. I had no idea where to go or what was I going to do, I just knew I had to do something and invite money.
 
