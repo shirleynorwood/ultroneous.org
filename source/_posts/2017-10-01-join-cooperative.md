@@ -5,7 +5,7 @@ editors: spencer@ultroneous.org
 category: journal
 ---
 
-The year is 2017, and I am with Ferreira, a great friend of mine, going to visit his cousin. I tell him, "Get ready because for the next hour we will only be talking about Cryptocurrency", and he replies, "I know."
+The year is 2017, and I am with João, a great friend of mine, going to visit his cousin. I tell him, "Get ready because for the next hour we will only be talking about Cryptocurrency", and he replies, "I know."
 
 One hour later we are leaving his cousin's house with a stash of more Euro bills that I spent ten minutes counting before giving up.
 
@@ -61,7 +61,11 @@ With our freedom regained it was time to find a safe place that we could call ho
 
 When we got to Austria, with the intention to register Rey as Austrian and expecting to finally fall in the arms of a loving family, we got presented with very similar issues from where we came from. By now it started to become even more clear that no matter where we go in the world we will always have problems as long as we don't have financial independence. I know that this might seem obvious, and until now I had been doing several jobs here and there to pay for the food and rents, but not enough to pay the debts that in the mean time I had made with Tamera and with a dear friend of mine.
 
-I decide it is time for me to leave and go and find a way that I not only could find peace with money but also invite it fully into my life.
+During our stay in Austria we find out that Maria is pregnant, this time she is going to have the labour in an Hospital in Austria, not something that we can completly celebrate because there was a reason why we wanted to have a natural labour in the first place, and not that that reason was wrong, just that this is somehow what we, almost without really talking about naturally decided to do(to go to the hospital this time from the begining).
+
+There is absolutly no more time to continue living in this instability, and the desperation at this point was so high that thinking rationaly was for me really out of the picture, the emotional tention between us as a couple as been imense and for far too long already it was unsustainable. I knew that something would have to happen, for this I decided to leave.
+
+I decide it is time for me to leave and go and find a way that I not only could find peace with money but also invite it fully into my life, as this was an essencial first step in bringing stability for the family.
 
 {% newthought "For the first time" %} the Alma family gets separated without any date of return. It was a very hard moment but no option seemed to be available.
 
@@ -83,7 +87,7 @@ When I met with him magic happened immediately. We were exactly in the same freq
 
 We got introduced to a completely different way of work from the economical to the social aspect. Everything was still like a dream coming to life. He is the organiser and he organised us incredibly. Every time that we met, our minds were clear and our goals clearly set. We were introduced to the techniques of one-minute management and our productivity was immense, at least compared to what I was used to. I'm pretty sure in the future even this amount of productivity will seem small in comparison.
 
-I went to Porto with Arne and this is where the story of the Euro bills that I mentioned in the beginning took place. Everywhere I go I still try to spread crypto, and this was just another example, used to catch your attention I admit.
+I went to Porto with Arne and this is where the story of the Euro bills that I mentioned in the beginning took place. Everywhere I go I still try to spread crypto, and this was just another example.
 
 {% newthought "Right now" %} our cooperative is growing. We are going to get a bus that I will live in and have an office inside, as soon as I can, I go to Austria to get my family together again, and we shall drive back to Portugal and make our home. Adagatyia failed in the mean time as a community and today is a family-oriented ecovillage. I don't know yet where we will live or with who, but I do know that the cooperative is clearly where I want to give my full energy work wise, in less than a month, all my financial issues disappeared and I actually can contribute to the world using my knowledge of the area of work that I love. Also I imagine to live in a community with the people that are part of my cooperative.
 
@@ -91,4 +95,4 @@ Until then, I hope to see you soon.
 
 Lots of Love,
 
-Diogo
+Dio
