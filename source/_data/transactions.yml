@@ -91,7 +91,7 @@
   timezone: WEST
   amount: 0.00091175
   currency: BTC
-  from:Jaxx
+  from: Jaxx
   to: World
   reason: “mining fee”
 - date: 2017-09-28
