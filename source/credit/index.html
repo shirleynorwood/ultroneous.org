@@ -4,7 +4,7 @@ title-slug: credit
 nav-weight: 3
 ---
 
-{% assign transactions = site.data.transactions | sort: "date" %}
+{% assign transactions = site.data.transactions | sort: "date" | reverse %}
 
 {% assign giving_accounts = transactions | map: "from" | join: "|" %}
 {% assign receiving_accounts = transactions | map: "to" | join: "|" %}
