@@ -5,7 +5,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Coffee.”
+  reason: "Coffee."
 - date: 2017-09-27
   time: 20:53:00
   timezone: WEST
@@ -13,7 +13,7 @@
   currency: ETH
   from: Bitfinex
   to: Jaxx
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-09-27
   time: 20:53:00
   timezone: WEST
@@ -21,7 +21,7 @@
   currency: ETH
   from: Bitfinex
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-27
   time: 23:14:00
   timezone: WEST
@@ -29,7 +29,7 @@
   currency: ETH
   from: Jaxx
   to: World
-  reason: “Bitmain Antminer S9 used”
+  reason: "Bitmain Antminer S9 used"
 - date: 2017-09-27
   time: 23:14:00
   timezone: WEST
@@ -37,7 +37,7 @@
   currency: ETH
   from: Jaxx
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-28
   time: 20:53:00
   timezone: WEST
@@ -45,7 +45,7 @@
   currency: ETH
   from: Jaxx
   to: World
-  reason: “ETH Sell to Nuno”
+  reason: "ETH Sell to Nuno"
 - date: 2017-09-28
   time: 20:53:00
   timezone: WEST
@@ -53,7 +53,7 @@
   currency: ETH
   from: Jaxx
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-28
   time: 20:53:00
   timezone: WEST
@@ -61,7 +61,7 @@
   currency: EUR
   from: World
   to: Diogo
-  reason: “ETH Sell to Nuno”
+  reason: "ETH Sell to Nuno"
 - date: 2017-09-21
   time: 01:52:00
   timezone: WEST
@@ -69,7 +69,7 @@
   currency: BTC
   from: Jaxx
   to: World
-  reason: “BTC sell to Lúcia”
+  reason: "BTC sell to Lúcia"
 - date: 2017-09-21
   time: 01:52:00
   timezone: WEST
@@ -77,7 +77,7 @@
   currency: BTC
   from: Jaxx
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-21
   time: 01:51:00
   timezone: WEST
@@ -85,7 +85,7 @@
   currency: BTC
   from: World
   to: Jaxx
-  reason: “Conversion of LTC to BTC using Jaxx Shapeshifter(fee-free exchange)”
+  reason: "Conversion of LTC to BTC using Jaxx Shapeshifter(fee-free exchange)"
 - date: 2017-09-21
   time: 01:51:00
   timezone: WEST
@@ -93,7 +93,7 @@
   currency: BTC
   from: Jaxx
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-28
   time: 15:06:00
   timezone: WEST
@@ -101,7 +101,7 @@
   currency: BTC
   from: Electrum
   to: Jaxx
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-09-28
   time: 15:06:00
   timezone: WEST
@@ -109,7 +109,7 @@
   currency: BTC
   from: Electrum
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-28
   time: 15:33:00
   timezone: WEST
@@ -117,7 +117,7 @@
   currency: BTC
   from: Jaxx
   to: World
-  reason: “Sale to João friend”
+  reason: "Sale to João friend"
 - date: 2017-09-28
   time: 15:33:00
   timezone: WEST
@@ -125,7 +125,7 @@
   currency: BTC
   from: Jaxx
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-28
   time: 15:06:00
   timezone: WEST
@@ -133,7 +133,7 @@
   currency: EUR
   from: World
   to: Diogo
-  reason: “Sale to João friend”
+  reason: "Sale to João friend"
 - date: 2017-09-21
   time: 01:48:00
   timezone: WEST
@@ -141,7 +141,7 @@
   currency: LTC
   from: Jaxx
   to: World
-  reason: “Conversion of LTC to BTC using Jaxx Shapeshifter(fee-free exchange)”
+  reason: "Conversion of LTC to BTC using Jaxx Shapeshifter(fee-free exchange)"
 - date: 2017-09-21
   time: 01:48:00
   timezone: WEST
@@ -149,7 +149,7 @@
   currency: LTC
   from: Jaxx
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-27
   time: 14:11:00
   timezone: WEST
@@ -157,7 +157,7 @@
   currency: LTC
   from: Jaxx
   to: CoopCoinBase
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-09-27
   time: 14:11:00
   timezone: WEST
@@ -165,7 +165,7 @@
   currency: LTC
   from: Jaxx
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-27
   time: 14:34:00
   timezone: WEST
@@ -173,7 +173,7 @@
   currency: LTC
   from: CoopCoinBase
   to: World
-  reason: “Conversion of LTC to EUR to test functionality.”
+  reason: "Conversion of LTC to EUR to test functionality."
 - date: 2017-09-27
   time: 14:34:00
   timezone: WEST
@@ -181,7 +181,7 @@
   currency: EUR
   from: World
   to: CoopCoinBase
-  reason: “Conversion of LTC to EUR to test functionality.”
+  reason: "Conversion of LTC to EUR to test functionality."
 - date: 2017-09-24
   time: 21:50:20
   timezone: WEST
@@ -189,7 +189,7 @@
   currency: ETH
   from: Bitfinex
   to: World
-  reason: “Sale to Felix.”
+  reason: "Sale to Felix."
 - date: 2017-09-24
   time: 21:50:20
   timezone: WEST
@@ -197,7 +197,7 @@
   currency: ETH
   from: Bitfinex
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-24
   time: 20:03:00
   timezone: WEST
@@ -205,7 +205,7 @@
   currency: EUR
   from: World
   to: CoopPayPall
-  reason: “Sale to Felix.”
+  reason: "Sale to Felix."
 - date: 2017-09-24
   time: 20:03:00
   timezone: WEST
@@ -213,7 +213,7 @@
   currency: EUR
   from: World
   to: CoopPayPall
-  reason: “PayPall transfer fee.”
+  reason: "PayPall transfer fee."
 - date: 2017-10-03
   time: 15:30:00
   timezone: WEST
@@ -221,7 +221,7 @@
   currency: EUR
   from: CoopPayPall
   to: World
-  reason: “Purchase of three Doogee S60 from Chinavasion Wholesale Ltd..”
+  reason: "Purchase of three Doogee S60 from Chinavasion Wholesale Ltd.."
 - date: 2017-10-03
   time: 15:29:00
   timezone: WEST
@@ -229,7 +229,7 @@
   currency: EUR
   from: Diogo
   to: CoopPayPall
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-10-03
   time: 11:52:22
   timezone: WEST
@@ -237,7 +237,7 @@
   currency: BTC
   from: Electrum
   to: Bitfinex
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-10-03
   time: 11:52:22
   timezone: WEST
@@ -245,7 +245,7 @@
   currency: BTC
   from: Electrum
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-10-03
   time: 17:02:00
   timezone: WEST
@@ -253,7 +253,7 @@
   currency: BCH
   from: ElectronCash
   to: Bitfinex
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-10-03
   time: 17:02:00
   timezone: WEST
@@ -261,7 +261,7 @@
   currency: BCH
   from: ElectronCash
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-10-03
   time: 14:23:04
   timezone: WEST
@@ -269,7 +269,7 @@
   currency: BCH
   from: Bitfinex
   to: ElectronCash
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-10-03
   time: 14:23:04
   timezone: WEST
@@ -277,7 +277,7 @@
   currency: BCH
   from: Bitfinex
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-10-03
   time: 17:02:00
   timezone: WEST
@@ -285,7 +285,7 @@
   currency: BCH
   from: ElectronCash
   to: World
-  reason: “Purchase of 10 Bitmain Antminer S9”
+  reason: "Purchase of 10 Bitmain Antminer S9"
 - date: 2017-10-03
   time: 17:02:00
   timezone: WEST
@@ -293,7 +293,7 @@
   currency: BCH
   from: ElectronCash
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-10-05
   time: 19:28:32
   timezone: WEST
@@ -301,7 +301,7 @@
   currency: BCH
   from: Bitfinex
   to: Electrum
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-10-05
   time: 19:28:32
   timezone: WEST
@@ -309,7 +309,7 @@
   currency: BCH
   from: Bitfinex
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-27
   time: 13:44:34
   timezone: WEST
@@ -317,7 +317,7 @@
   currency: ETH
   from: Bitfinex
   to: CoopMyEtherWallet
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-09-27
   time: 13:44:34
   timezone: WEST
@@ -325,7 +325,7 @@
   currency: ETH
   from: Bitfinex
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-27
   time: 07:53:06
   timezone: UTC
@@ -333,7 +333,7 @@
   currency: ETH
   from: CoopMyEtherWallet
   to: Jaxx
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-09-27
   time: 07:53:06
   timezone: UTC
@@ -341,7 +341,7 @@
   currency: ETH
   from: CoopMyEtherWallet
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-25
   time: 21:36:48
   timezone: WEST
@@ -349,7 +349,7 @@
   currency: BTC
   from: Bitfinex
   to: Cryptopia
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-09-25
   time: 21:36:48
   timezone: WEST
@@ -357,7 +357,7 @@
   currency: BTC
   from: Bitfinex
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-10-05
   time: 22:14:00
   timezone: WEST
@@ -365,7 +365,7 @@
   currency: BTC
   from: Cryptopia
   to: Electrum
-  reason: “transfer”
+  reason: "transfer"
 - date: 2017-10-05
   time: 22:14:00
   timezone: WEST
@@ -373,7 +373,7 @@
   currency: BTC
   from: Cryptopia
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-09-18
   time: 3:10:22
   timezone: UTC
@@ -381,7 +381,7 @@
   currency: ETH
   from: Bitfinex
   to: Arne
-  reason: “Transfer”
+  reason: "Transfer"
 - date: 2017-09-18
   time: 3:10:22
   timezone: UTC
@@ -389,7 +389,7 @@
   currency: ETH
   from: Bitfinex
   to: World
-  reason: “mining fee”
+  reason: "mining fee"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -397,7 +397,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- BCB Signalling Mirror”
+  reason: "Gear- BCB Signalling Mirror"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -405,7 +405,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “2000W Power Inverter”
+  reason: "2000W Power Inverter"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -413,7 +413,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “20A 12V/24V Solar Charge Controller”
+  reason: "20A 12V/24V Solar Charge Controller"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -421,7 +421,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Sealey MM18 Pocket Multimiter”
+  reason: "Sealey MM18 Pocket Multimiter"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -429,7 +429,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- Mechanix Wear gloves”
+  reason: "Gear- Mechanix Wear gloves"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -437,7 +437,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- SAS Survival guide, Collins Gem”
+  reason: "Gear- SAS Survival guide, Collins Gem"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -445,7 +445,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- Bacho Laplander Folding Saw”
+  reason: "Gear- Bacho Laplander Folding Saw"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -453,7 +453,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- OUTRY Waterproof Multi-purpose Tarp”
+  reason: "Gear- OUTRY Waterproof Multi-purpose Tarp"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -461,7 +461,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- isYoung Hammock with Mosquito Net Parachute Fabric”
+  reason: "Gear- isYoung Hammock with Mosquito Net Parachute Fabric"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -469,7 +469,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- Multi purpose folding shovel and pick with carrying pouch.”
+  reason: "Gear- Multi purpose folding shovel and pick with carrying pouch."
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -477,7 +477,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “HQST 100 Watt 12 Volt Monocrystalline Solar Panel”
+  reason: "HQST 100 Watt 12 Volt Monocrystalline Solar Panel"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -485,7 +485,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- V12 Bison, Waxy Derby Safety Boot”
+  reason: "Gear- V12 Bison, Waxy Derby Safety Boot"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -493,7 +493,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- CamelBak M.U.L.E. Rain Cover”
+  reason: "Gear- CamelBak M.U.L.E. Rain Cover"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -501,7 +501,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- Bracelet with paracord, flint, scrapper, compass, whistle and parachute cord bucle.”
+  reason: "Gear- Bracelet with paracord, flint, scrapper, compass, whistle and parachute cord bucle."
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -509,7 +509,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- BCB button compass”
+  reason: "Gear- BCB button compass"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -517,7 +517,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- LIVEHITOP USB Rechargeable LED Headlamp.”
+  reason: "Gear- LIVEHITOP USB Rechargeable LED Headlamp."
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -525,7 +525,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- Brother 550 Paracord 7 Strand Nylon Parachute Cord type III 100feet.”
+  reason: "Gear- Brother 550 Paracord 7 Strand Nylon Parachute Cord type III 100feet."
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -533,7 +533,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- Vdealen Stainless Steel Sporks.”
+  reason: "Gear- Vdealen Stainless Steel Sporks."
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -541,7 +541,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- Esbit Pocket Stove Dry Fuel Camp Fire”
+  reason: "Gear- Esbit Pocket Stove Dry Fuel Camp Fire"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -549,7 +549,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- TOAKS LIGHT Titanium 550ml Pot”
+  reason: "Gear- TOAKS LIGHT Titanium 550ml Pot"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -557,7 +557,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- Uco Alki LED Lantern”
+  reason: "Gear- Uco Alki LED Lantern"
 - date: 2017-10-03
   time: n/a
   timezone: WEST
@@ -565,7 +565,7 @@
   currency: GBP
   from: Diogo
   to: World
-  reason: “Gear- Multi-Functional MOLLE Pouch.”
+  reason: "Gear- Multi-Functional MOLLE Pouch."
 - date: 2017-10-04
   time: n/a
   timezone: WEST
@@ -573,7 +573,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Spencer’s Android Phone”
+  reason: "Spencer’s Android Phone"
 - date: 2017-09-29
   time: 11:33:38
   timezone: WEST
@@ -581,7 +581,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Ticket from Marco de Canaveses to Funcheira to go attend cooperative meeting.”
+  reason: "Ticket from Marco de Canaveses to Funcheira to go attend cooperative meeting."
 - date: 2017-09-29
   time: 14:13:00
   timezone: WEST
@@ -589,7 +589,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Pistachos”
+  reason: "Food-Pistachos"
 - date: 2017-09-29
   time: 14:13:00
   timezone: WEST
@@ -597,7 +597,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Donut”
+  reason: "Food-Donut"
 - date: 2017-09-29
   time: 14:13:00
   timezone: WEST
@@ -605,7 +605,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Nectar Pessego”
+  reason: "Food-Nectar Pessego"
 - date: 2017-09-29
   time: 14:13:00
   timezone: WEST
@@ -613,7 +613,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Batatas Fritas”
+  reason: "Food-Batatas Fritas"
 - date: 2017-09-29
   time: 14:13:00
   timezone: WEST
@@ -621,7 +621,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Agua 50cl”
+  reason: "Food-Agua 50cl"
 - date: 2017-09-28
   time: 17:03:54
   timezone: WEST
@@ -629,7 +629,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Ticket from Porto Campanhã to Marco de Canaveses to go meet Andreas.”
+  reason: "Ticket from Porto Campanhã to Marco de Canaveses to go meet Andreas."
 - date: 2017-09-28
   time: n/a
   timezone: WEST
@@ -637,7 +637,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Taxi from train station to community to go meet Andreas.”
+  reason: "Taxi from train station to community to go meet Andreas."
 - date: 2017-09-29
   time: n/a
   timezone: WEST
@@ -645,7 +645,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Taxi from community to train station to go to Cooperative meeting.”
+  reason: "Taxi from community to train station to go to Cooperative meeting."
 - date: 2017-09-29
   time: n/a
   timezone: WEST
@@ -653,7 +653,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Taxi from Funcheira train station to Tamera to go to Cooperative meeting.”
+  reason: "Taxi from Funcheira train station to Tamera to go to Cooperative meeting."
 - date: 2017-09-30
   time: n/a
   timezone: WEST
@@ -661,7 +661,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Re-bottle handmade in Portugal Inox 750ml bottle.”
+  reason: "Re-bottle handmade in Portugal Inox 750ml bottle."
 - date: 2017-09-28
   time: 16:16:28
   timezone: WEST
@@ -669,7 +669,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Salada de Fruta”
+  reason: "Food-Salada de Fruta"
 - date: 2017-09-29
   time: 16:15:00
   timezone: WEST
@@ -677,7 +677,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Salada Vitaminas”
+  reason: "Food-Salada Vitaminas"
 - date: 2017-09-29
   time: 16:15:00
   timezone: WEST
@@ -685,7 +685,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Chá Verde c/menta”
+  reason: "Food-Chá Verde c/menta"
 - date: 2017-09-26
   time: 12:11:35
   timezone: WEST
@@ -693,7 +693,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Gear-Backpack Camelbak Motherlode”
+  reason: "Gear-Backpack Camelbak Motherlode"
 - date: 2017-09-27
   time: 12:02:00
   timezone: WEST
@@ -701,7 +701,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Gear-Sleeping bag Forclaz 5/0º Ultralight”
+  reason: "Gear-Sleeping bag Forclaz 5/0º Ultralight"
 - date: 2017-09-27
   time: 12:02:00
   timezone: WEST
@@ -709,7 +709,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Gear-Dog collar to strap sleeping bag”
+  reason: "Gear-Dog collar to strap sleeping bag"
 - date: 2017-09-27
   time: 12:02:00
   timezone: WEST
@@ -717,7 +717,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Gear-Second Dog collar to strap sleeping bag”
+  reason: "Gear-Second Dog collar to strap sleeping bag"
 - date: 2017-09-27
   time: 12:24:00
   timezone: WEST
@@ -725,7 +725,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Gear-Shaving machine”
+  reason: "Gear-Shaving machine"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -733,7 +733,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Néctar Groselha Preta Bio 1L”
+  reason: "Food-Néctar Groselha Preta Bio 1L"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -741,7 +741,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Néctar Multifrutos Bio 1L”
+  reason: "Food-Néctar Multifrutos Bio 1L"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -749,7 +749,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Bebida Soja Bio Baunilha 1L”
+  reason: "Food-Bebida Soja Bio Baunilha 1L"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -757,7 +757,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Bebida Soja Bio s/Açucar 1L”
+  reason: "Food-Bebida Soja Bio s/Açucar 1L"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -765,7 +765,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Pickles Bio 320gr Biodharma”
+  reason: "Food-Pickles Bio 320gr Biodharma"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -773,7 +773,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Thootpaste Weleda Calendula”
+  reason: "Thootpaste Weleda Calendula"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -781,7 +781,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Granulado de Soja Grossa”
+  reason: "Food-Granulado de Soja Grossa"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -789,7 +789,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Granulado de Soja Grossa”
+  reason: "Food-Granulado de Soja Grossa"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -797,7 +797,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Bebida Soja Bio Soria Cálcio 1L”
+  reason: "Food-Bebida Soja Bio Soria Cálcio 1L"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -805,7 +805,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Granula Crua Natura 250gr”
+  reason: "Food-Granula Crua Natura 250gr"
 - date: 2017-09-25
   time: n/a
   timezone: WEST
@@ -813,7 +813,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Muesli Cranberry Kolln”
+  reason: "Food-Muesli Cranberry Kolln"
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -821,7 +821,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Sumo de Aloe Vera 1L”
+  reason: "Food-Sumo de Aloe Vera 1L"
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -829,7 +829,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Nectar de Pessego 1L”
+  reason: "Food-Nectar de Pessego 1L"
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -837,7 +837,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Arroz Branco Indica 500gr.”
+  reason: "Food-Arroz Branco Indica 500gr."
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -845,7 +845,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Fusilli Lentilhas 250gr.”
+  reason: "Food-Fusilli Lentilhas 250gr."
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -853,7 +853,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Bolachas Recheadas c/choc Vegan”
+  reason: "Food-Bolachas Recheadas c/choc Vegan"
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -861,7 +861,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Molho Pesto Vegetal 120ml”
+  reason: "Food-Molho Pesto Vegetal 120ml"
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -869,7 +869,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Fusilli Lentilhas 250gr.”
+  reason: "Food-Fusilli Lentilhas 250gr."
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -877,7 +877,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Castanha do Brazil 150gr.”
+  reason: "Food-Castanha do Brazil 150gr."
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -885,7 +885,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Tomate redondo”
+  reason: "Food-Tomate redondo"
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -893,7 +893,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Aipo”
+  reason: "Food-Aipo"
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -901,7 +901,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Espinafre”
+  reason: "Food-Espinafre"
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -909,7 +909,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Rucula”
+  reason: "Food-Rucula"
 - date: 2017-09-25
   time: 19:35:00
   timezone: WEST
@@ -917,7 +917,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Cogumelo branco 250gr.”
+  reason: "Food-Cogumelo branco 250gr."
 - date: 2017-09-20
   time: 17:30:00
   timezone: WEST
@@ -925,7 +925,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Compal”
+  reason: "Food-Compal"
 - date: 2017-09-20
   time: 17:30:00
   timezone: WEST
@@ -933,7 +933,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Compal”
+  reason: "Food-Compal"
 - date: 2017-09-20
   time: 17:30:00
   timezone: WEST
@@ -941,7 +941,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Compal”
+  reason: "Food-Compal"
 - date: 2017-09-20
   time: 17:30:00
   timezone: WEST
@@ -949,7 +949,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Chamuça”
+  reason: "Food-Chamuça"
 - date: 2017-09-20
   time: 17:30:00
   timezone: WEST
@@ -957,7 +957,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Chamuça”
+  reason: "Food-Chamuça"
 - date: 2017-09-20
   time: 17:30:00
   timezone: WEST
@@ -965,7 +965,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Mini-Pizza”
+  reason: "Food-Mini-Pizza"
 - date: 2017-09-20
   time: 17:30:00
   timezone: WEST
@@ -973,7 +973,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Sopa do dia”
+  reason: "Food-Sopa do dia"
 - date: 2017-09-20
   time: 17:30:00
   timezone: WEST
@@ -981,7 +981,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Sopa do dia”
+  reason: "Food-Sopa do dia"
 - date: 2017-09-20
   time: 17:30:00
   timezone: WEST
@@ -989,7 +989,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Food-Sopa do dia”
+  reason: "Food-Sopa do dia"
 - date: 2017-09-20
   time: 20:06:16
   timezone: WEST
@@ -997,7 +997,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Road Tax- Taxa da Viaverde from Adagatyia to Porto”
+  reason: "Road Tax- Taxa da Viaverde from Adagatyia to Porto"
 - date: 2017-09-24
   time: 20:15:00
   timezone: WEST
@@ -1005,7 +1005,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Chewing gum Tridente”
+  reason: "Chewing gum Tridente"
 - date: 2017-09-25
   time: 14:18:00
   timezone: WEST
@@ -1013,7 +1013,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Parking fee in Porto”
+  reason: "Parking fee in Porto"
 - date: 2017-09-25
   time: 13:15:00
   timezone: WEST
@@ -1021,7 +1021,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Parking fee in Porto”
+  reason: "Parking fee in Porto"
 - date: 2017-09-25
   time: 16:32:00
   timezone: WEST
@@ -1029,7 +1029,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Parking fee in Porto”
+  reason: "Parking fee in Porto"
 - date: 2017-09-25
   time: 16:55:00
   timezone: WEST
@@ -1037,7 +1037,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Parking fee in Porto”
+  reason: "Parking fee in Porto"
 - date: 2017-09-20
   time: 18:33:00
   timezone: WEST
@@ -1045,7 +1045,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Coffee”
+  reason: "Coffee"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1053,7 +1053,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-10kg”
+  reason: "Washing Clothes-10kg"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1061,7 +1061,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-10kg”
+  reason: "Washing Clothes-10kg"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1069,7 +1069,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-10kg”
+  reason: "Washing Clothes-10kg"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1077,7 +1077,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-5kg”
+  reason: "Washing Clothes-5kg"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1085,7 +1085,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-5kg”
+  reason: "Washing Clothes-5kg"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1093,7 +1093,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-5kg”
+  reason: "Washing Clothes-5kg"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1101,7 +1101,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-5kg”
+  reason: "Washing Clothes-5kg"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1109,63 +1109,63 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Dry Clothes-6kg”- date: 2017-09-23
+  reason: "Dry Clothes-6kg"- date: 2017-09-23
   time: n/a
   timezone: WEST
   amount: 1.50
   currency: EUR
   from: Diogo
   to: World
-  reason: “Dry Clothes-6kg”- date: 2017-09-23
+  reason: "Dry Clothes-6kg"- date: 2017-09-23
   time: n/a
   timezone: WEST
   amount: 1.50
   currency: EUR
   from: Diogo
   to: World
-  reason: “Dry Clothes-6kg”- date: 2017-09-23
+  reason: "Dry Clothes-6kg"- date: 2017-09-23
   time: n/a
   timezone: WEST
   amount: 1.50
   currency: EUR
   from: Diogo
   to: World
-  reason: “Dry Clothes-6kg”- date: 2017-09-23
+  reason: "Dry Clothes-6kg"- date: 2017-09-23
   time: n/a
   timezone: WEST
   amount: 1.50
   currency: EUR
   from: Diogo
   to: World
-  reason: “Dry Clothes-6kg”- date: 2017-09-23
+  reason: "Dry Clothes-6kg"- date: 2017-09-23
   time: n/a
   timezone: WEST
   amount: 1.50
   currency: EUR
   from: Diogo
   to: World
-  reason: “Dry Clothes-6kg”- date: 2017-09-23
+  reason: "Dry Clothes-6kg"- date: 2017-09-23
   time: n/a
   timezone: WEST
   amount: 1.50
   currency: EUR
   from: Diogo
   to: World
-  reason: “Dry Clothes-6kg”- date: 2017-09-23
+  reason: "Dry Clothes-6kg"- date: 2017-09-23
   time: n/a
   timezone: WEST
   amount: 1.50
   currency: EUR
   from: Diogo
   to: World
-  reason: “Dry Clothes-6kg”- date: 2017-09-23
+  reason: "Dry Clothes-6kg"- date: 2017-09-23
   time: n/a
   timezone: WEST
   amount: 1.50
   currency: EUR
   from: Diogo
   to: World
-  reason: “Dry Clothes-6kg”
+  reason: "Dry Clothes-6kg"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1173,7 +1173,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-Detergente”
+  reason: "Washing Clothes-Detergente"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1181,7 +1181,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-Tira nódoas”
+  reason: "Washing Clothes-Tira nódoas"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1189,7 +1189,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-Sabão”
+  reason: "Washing Clothes-Sabão"
 - date: 2017-09-23
   time: n/a
   timezone: WEST
@@ -1197,7 +1197,7 @@
   currency: EUR
   from: Diogo
   to: World
-  reason: “Washing Clothes-Amaciador de roupa”
+  reason: "Washing Clothes-Amaciador de roupa"
 - date: 2017-09-12
   time: 23:54:39
   timezone: UTC
