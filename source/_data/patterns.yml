@@ -81,3 +81,9 @@
   elements:
     - "I notice when I am felling out of balance."
     - "I cross my legs and cross my wrists(interlace hands) into a praying stance and just observe as I get calmer/centered."
+- name: "explaining cryptocurrency clearly and accurately"
+  elements:
+    - "I only talk while my audience is clearly listening, and when they stop to think I notice and wait for them to engage again."
+    - "I explain how a cryptocurrency transaction can be verified as originating from the sender, because it is signed cryptographically."
+    - "I explain that bitcoin's blockchain is a list of transactions, each consisting of a sender, a receiver, an amount, a fee, and a miner."
+    - "I explain how bitcoin mining works as a process of computers trying to guess numbers, finding one that fits with one block of transactions, so that the hashing algorithm converts the block into a hash with sufficiently many zeroes at the front."
