@@ -46,3 +46,32 @@
      timezone: WEST
      manifestation: 0.6
      value: 10
+- affirmation: "Cryptocurrency is widely available in Portugal at a low price."
+  readings:
+   - reader: dioalma@gmail.com
+     date: 2017-10-08
+     time: 10:30
+     timezone: WEST
+     manifestation: 0.05
+     value: 50
+   - reader: Arne
+     date: 2017-10-08
+     time: 10:34
+     timezone: WEST
+     manifestation: 0.1
+     value: 72
+   - reader: spencer@ultroneous.org
+     date: 2017-10-08
+     time: 10:36
+     timezone: WEST
+     manifestation: 0.05
+     value: 10
+- "Communities are financially self-sufficient; they have no need to ask guests for money."
+- affirmation: "We, as a team, are spiritually connected."
+  readings:
+   - reader: spencer@ultroneous.org
+     date: 2017-10-08
+     time: 12:34
+     timezone: WEST
+     manifestation: 0.80
+     value: 50
