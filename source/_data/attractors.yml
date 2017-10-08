@@ -75,3 +75,11 @@
      timezone: WEST
      manifestation: 0.80
      value: 50
+- affirmation: "No one worries about money."
+  readings:
+   - reader: spencer@ultroneous.org
+     date: 2017-10-08
+     time: 13:52
+     timezone: WEST
+     manifestation: 0.000001
+     value: 1000000000
