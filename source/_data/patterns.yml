@@ -99,3 +99,8 @@
   attractors:
     - "We know what we expected to do in the past."
     - "We know what we expect to do in the future."
+- name: "staying in communication"
+  elements:
+    - "I answer proposals on loomio within 24 hours."
+  attractors:
+    - "We make decisions as a team easily, soon after questions arise."
