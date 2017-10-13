@@ -1,13 +1,3 @@
-- name: "arriving in celebration"
-  elements:
-    - "We close our eyes at the start."
-    - "We tell stories from recent experience that moved us."
-    - ""
-- name: "noticing what's available"
-  elements:
-    - ""
-    - ""
-    - ""
 - name: "clarifying expectations"
   elements:
     - "I tell you what I expect to happen, in the form of future-tense experiences."
@@ -32,7 +22,6 @@
     - "I stay in high awareness of tension, confusion and doubts in myself and others."
     - "I relentlessly ask questions."
     - "I always have a clear learning task."
-    - "I try to keep Wednesday and Thursday free to work for the cooperative."
 - name: "trading cryptocurrency"
   elements:
     - "I only trade for joy."
@@ -52,6 +41,16 @@
     - "I contribute container leadership, as defined in the Changing Leadership framework."
     - "I commit my time to work for the cooperative from Saturday morning until Sunday evening every week."
     - "I take responsibility wherever the cooperative should take responsibility and no one has been assigned a task for it."
+  subprocesses:
+    - "providing container leadership"
+- name: "providing container leadership"
+  elements:
+    - "I am self-assured and confident, taking a stand for my beliefs."
+    - "I am not anxious in challenging situations."
+    - "I provide affirming and encouraging signals to build ownership, trust and confidence in my team."
+    - "I make it safe to say risky things and have the 'hard to have' conversations through empathy and high quality dialogue skills."
+    - "I set and contract boundaries, clear expectations and hard rules so that people know what to operate on and how to operate."
+    - "I create alignment at the top and build networks of relationships that stay in tune with the system and can channel the change."
 - name: "doing technical work"
   elements:
     - "I find ways to do things that the cooperative doesn't know how to do yet."
@@ -71,7 +70,7 @@
     - "I work to keep all the tasks on my team's kanban clear, as one-minute goals."
     - "I call attention to good performance in my team, and celebrate it with one-minute praisings."
     - "I call attention to poor performance in my team, and celebrate it with one-minute reprimands."
-  subpatterns:
+  subprocesses:
     - "setting due dates on tasks"
 - name: "setting due dates on tasks"
   elements:

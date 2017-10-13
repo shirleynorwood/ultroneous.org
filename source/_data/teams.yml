@@ -1,0 +1,33 @@
+- name: Startup
+  players:
+    - address: spencer@ultroneous.org
+      title: Organizer
+      commitments:
+        - "I respond to Loomio proposals within 24 hours."
+        - "I work for the cooperative every week from Saturday morning to Sunday evening."
+      responsibilities:
+        - "organizing a cooperative"
+        - "serving a community"
+    - address: dioalma@gmail.com
+      title: Technician
+      commitments:
+        - "I respond to Loomio proposals within 24 hours."
+        - "I am available to receive tasks 24/7."
+      responsibilities:
+        - "doing technical work"
+    - address: arneultroneous@protonmail.com
+      title: Student
+      commitments:
+        - "I respond to Loomio proposals within 24 hours."
+        - "I try to keep myself available on Wednesday and Thursday to work for the cooperative."
+      responsibilities:
+        - "working as a student"
+    - address: smnaus@gmail.com
+      title: Heart and Mind Connector
+      commitments:
+        - "I respond to Loomio proposals within 24 hours."
+      responsibilities:
+        - "listening and loving"
+        - "offering feeling tools"
+        - "offering thinking tools"
+        - "anticipating emergencies and offering tools to address them"
