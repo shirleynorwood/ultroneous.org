@@ -5,6 +5,7 @@
       responsibilities:
         picking-up:
             - "organizing cooperation"
+            - "managing knowledge"
         carrying:
             - "serving a community"
         letting-go:
@@ -13,8 +14,8 @@
       responsibilities:
         picking-up:
             - "providing technical tools"
-            - "doing technical work"
         carrying:
+            - "doing technical work"
         letting-go:
             - "trading cryptocurrency"
     - player: arneultroneous@protonmail.com
