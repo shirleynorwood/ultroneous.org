@@ -36,13 +36,14 @@
     - "I clarify with my team what I think and feel my contacts will contribute to the cooperative, and gather consent on a proposal to make to them."
     - "I invite my contacts to meet with my team to check the proposal together."
     - "If the proposal includes them joining my team, it includes at least one role for them."
-- name: "organizing a cooperative"
+- name: "organizing cooperation"
   elements:
     - "I contribute container leadership, as defined in the Changing Leadership framework."
-    - "I commit my time to work for the cooperative from Saturday morning until Sunday evening every week."
     - "I take responsibility wherever the cooperative should take responsibility and no one has been assigned a task for it."
   subprocesses:
     - "providing container leadership"
+    - "providing organizational tools"
+    - "standardizing processes"
 - name: "providing container leadership"
   elements:
     - "I am self-assured and confident, taking a stand for my beliefs."
@@ -54,8 +55,6 @@
 - name: "doing technical work"
   elements:
     - "I find ways to do things that the cooperative doesn't know how to do yet."
-    - "I make myself available to receive tasks 24 hours a day, 7 days a week."
-    - "I complete one huge complex task every month."
 - name: "serving a community"
   elements:
     - "I make a clear offer of time to a community, specifying exactly the days and hours that I'm willing to commit to service."

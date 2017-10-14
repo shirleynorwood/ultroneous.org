@@ -1,33 +1,39 @@
 - name: Startup
-  players:
-    - address: spencer@ultroneous.org
+  roles:
+    - player: spencer@ultroneous.org
       title: Organizer
-      commitments:
-        - "I respond to Loomio proposals within 24 hours."
-        - "I work for the cooperative every week from Saturday morning to Sunday evening."
       responsibilities:
-        - "organizing a cooperative"
-        - "serving a community"
-    - address: dioalma@gmail.com
+        picking-up:
+            - "organizing cooperation"
+        carrying:
+            - "serving a community"
+        letting-go:
+    - player: dioalma@gmail.com
       title: Technician
-      commitments:
-        - "I respond to Loomio proposals within 24 hours."
-        - "I am available to receive tasks 24/7."
       responsibilities:
-        - "doing technical work"
-    - address: arneultroneous@protonmail.com
-      title: Student
-      commitments:
-        - "I respond to Loomio proposals within 24 hours."
-        - "I try to keep myself available on Wednesday and Thursday to work for the cooperative."
+        picking-up:
+            - "providing technical tools"
+            - "doing technical work"
+        carrying:
+        letting-go:
+            - "trading cryptocurrency"
+    - player: arneultroneous@protonmail.com
+      title: Notekeeper
       responsibilities:
-        - "working as a student"
-    - address: smnaus@gmail.com
+        picking-up:
+            - "documenting processes"
+            - "calling attention to transitions"
+        carrying:
+        letting-go:
+    - player: smnaus@gmail.com
       title: Heart and Mind Connector
-      commitments:
-        - "I respond to Loomio proposals within 24 hours."
       responsibilities:
-        - "listening and loving"
-        - "offering feeling tools"
-        - "offering thinking tools"
-        - "anticipating emergencies and offering tools to address them"
+        picking-up:
+            - "providing container leadership"
+            - "providing spaces for heart connection"
+            - "listening and loving"
+            - "providing feeling tools"
+            - "providing thinking tools"
+            - "anticipating emergencies and providing tools to address them"
+        carrying:
+        letting-go:
