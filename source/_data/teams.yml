@@ -1,6 +1,6 @@
 - name: Startup
-  roles:
-    - player: spencer@ultroneous.org
+  players:
+    - address: spencer@ultroneous.org
       title: Organizer
       responsibilities:
         picking-up:
@@ -9,7 +9,7 @@
         carrying:
             - "serving a community"
         letting-go:
-    - player: dioalma@gmail.com
+    - address: dioalma@gmail.com
       title: Technician
       responsibilities:
         picking-up:
@@ -18,24 +18,27 @@
             - "doing technical work"
         letting-go:
             - "trading cryptocurrency"
-    - player: arneultroneous@protonmail.com
+    - name: Arne Slawik
+      address: arneultroneous@protonmail.com
       title: Notekeeper
       responsibilities:
         picking-up:
             - "documenting processes"
             - "calling attention to transitions"
-            - "managing knowledge"
+            - "tracking open threads"
+            - "keeping note of learnings"
         carrying:
         letting-go:
-    - player: smnaus@gmail.com
-      title: Heart and Mind Connector
+    - name: Shirley Norwood
+      address: smnaus@gmail.com
+      title: Body/Mind/Heart Connector
       responsibilities:
         picking-up:
             - "providing container leadership"
+            - "anticipating emergencies and providing tools to address them"
+        carrying:
             - "providing spaces for heart connection"
             - "listening and loving"
             - "providing feeling tools"
             - "providing thinking tools"
-            - "anticipating emergencies and providing tools to address them"
-        carrying:
         letting-go:

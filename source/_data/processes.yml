@@ -37,14 +37,16 @@
     - "I invite my contacts to meet with my team to check the proposal together."
     - "If the proposal includes them joining my team, it includes at least one role for them."
 - name: "organizing cooperation"
-  elements:
-    - "I contribute container leadership, as defined in the Changing Leadership framework."
-    - "I take responsibility wherever the cooperative should take responsibility and no one has been assigned a task for it."
+  roles:
+    - name: leader
+      expectations:
+        - "I contribute container leadership, as described in the book Sustaining Change."
+        - "I take responsibility wherever the cooperative should take responsibility and no one has been assigned a task for it."
   subprocesses:
     - "providing container leadership"
     - "providing organizational tools"
     - "standardizing processes"
-- name: "providing container leadership"
+- name: "providing container"
   elements:
     - "I am self-assured and confident, taking a stand for my beliefs."
     - "I am not anxious in challenging situations."
@@ -83,3 +85,7 @@
   elements:
     - "I value the product as what it is."
     - "I distinguish between products that are high in plastic, and those high in gold or silver, and discard the plastic ones, holding the future vision of regaining a purpose for any material we collect."
+- name: "keeping note of learnings"
+  elements:
+    - "We write appreciations, suggestions, questions and observations in our kanban for learnings."
+- name: "noticing learning points"
