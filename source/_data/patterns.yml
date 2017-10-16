@@ -100,3 +100,28 @@
        while imagening the outcome(using Whole Brain posture)
     - "We bravely decide by 'listening' to these feelings and sensations, trusting the that this is the decision to follow even
        when the brain tries to itervene with logic."
+- name: "explaining cryptocurrency clearly and accurately"
+  elements:
+    - "I only talk while my audience is clearly listening, and when they stop to think I notice and wait for them to engage again."
+    - "I explain how a cryptocurrency transaction can be verified as originating from the sender, because it is signed cryptographically."
+    - "I explain that bitcoin's blockchain is a list of transactions, each consisting of a sender, a receiver, an amount, a fee, and a miner."
+    - "I explain how bitcoin mining works as a process of computers trying to guess numbers, finding one that fits with one block of transactions, so that the hashing algorithm converts the block into a hash with sufficiently many zeroes at the front."
+- name: "documenting attractors"
+  elements:
+    - "I notice an attractive possibility, and I write it in the attractors file."
+  attractors:
+    - "Our motives are documented, transparent, and regularly reviewed to evaluate our performance as a cooperative."
+- name: "documenting patterns"
+  elements:
+    - "I notice something we expect to do, and think of a gerund phrase to name it as a pattern."
+    - "I think of the elements that I experience when I am in the pattern."
+    - "I document the attractors that the pattern manifests."
+    - "I write an entry in the patterns file consisting of name, elements, and attractors."
+  attractors:
+    - "We know what we expected to do in the past."
+    - "We know what we expect to do in the future."
+- name: "staying in communication"
+  elements:
+    - "I answer proposals on loomio within 24 hours."
+  attractors:
+    - "We make decisions as a team easily, soon after questions arise."
