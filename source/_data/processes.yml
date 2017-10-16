@@ -116,3 +116,13 @@
     - name: leading
       expectations:
         - "We write appreciations, suggestions, questions and observations in our kanban for learnings."
+- name: "organizing a team"
+  roles:
+    - name: leading
+      expectations:
+        - "I organize processes for my team to flow."
+        - "I notice when my team isn't flowing, and respond by conducting inquiries to find out why."
+        - "I continuously improve the processes my team is responsible for."
+  subprocesses:
+    - "improving processes"
+    - "celebrating every week"
