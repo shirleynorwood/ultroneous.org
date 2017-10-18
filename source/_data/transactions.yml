@@ -5917,7 +5917,7 @@
   currency: EUR
   from: Arne
   to: World
-  reason: "Pencil&notebooks
+  reason: "Pencil & notebooks."
 - date: 2017-09-15
   time: n/a
   timezone: WEST
@@ -6045,7 +6045,7 @@
   currency: EUR
   from: Arne
   to: World
-  reason: "Jerrycan&petrol."
+  reason: "Jerrycan & petrol."
 - date: 2017-10-09
   time: n/a
   timezone: WEST
