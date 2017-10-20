@@ -71,15 +71,15 @@
     - "I clarify with my team what I think and feel my contacts will contribute to the cooperative, and gather consent on a proposal to make to them."
     - "I invite my contacts to meet with my team to check the proposal together."
     - "If the proposal includes them joining my team, it includes at least one role for them."
-- name: "organizing cooperation"
+- name: "sustaining change"
   expectations:
-    - "I contribute container leadership, as described in the book Sustaining Change."
-    - "I take responsibility wherever the cooperative should take responsibility and no one has been assigned a task for it."
+    - "We use the Changing Leadership practices described in the book Sustaining Change."
   subprocesses:
-    - "providing container leadership"
-    - "providing organizational tools"
-    - "standardizing processes"
-- name: "providing container"
+    - "providing containers"
+    - "providing attractors"
+    - "providing edge and tension"
+    - "transforming space"
+- name: "providing container leadership"
   expectations:
     - "I am self-assured and confident, taking a stand for my beliefs."
     - "I am not anxious in challenging situations."
@@ -117,9 +117,10 @@
     - "We write appreciations, suggestions, questions and observations in our kanban for learnings."
 - name: "organizing teams"
   expectations:
+    - "We are a sociocratic cooperative."
     - "We organize as teams of three to twelve committed people."
     - "Each team continuously improves the processes it is responsible for."
-    - "The activities of each team are well-documented and openly available."
+    - "Our expectations and experiences are well-documented and openly available."
   subprocesses:
     - "improving processes"
     - "welcoming involvement"
@@ -130,14 +131,20 @@
   subprocesses:
     - "celebrating every week"
     - "documenting processes"
+    - "keeping note of learnings"
 - name: "welcoming involvement"
   expectations:
-    - "We can easily access clear information on who is interested in Veda, who is engaged, and who is committed."
-    - "Interested people quickly become engaged, and engaged people gradually become committed."
-    - "Everyone in Veda is committed to a team of three to twelve people."
+    - "We passively attract interest, because we openly celebrate who we are and what we do."
+    - "We can easily access clear information on who is interested in us, who is engaged with us, and who is committed to us."
+    - "We welcome interested people to engage, and engaged people to commit."
     - "Every engaged contact has a committed manager."
   subprocesses:
     - "welcoming interest"
     - "welcoming engagement"
     - "welcoming commitment"
     - "documenting contacts"
+- name: "improving culture"
+  expectations:
+  subprocesses:
+    - "improving language"
+    - "speaking truth"
