@@ -5885,7 +5885,7 @@
   currency: EUR
   from: World
   to: Spencer Campbell
-  reason: "Donation from Spencer"
+  reason: "Donating credit."
 - date: 2017-09-10
   time: n/a
   timezone: WEST
@@ -6054,4 +6054,19 @@
   from: Arne
   to: World
   reason: "Book: 'wake up with everyone around us'."
- 
+- date: 2017-10-14
+  time: 16:53:08
+  timezone: WEST
+  amount: 210
+  currency: EUR
+  from: Spencer Campbell
+  to: World
+  reason: "Paying for Veda's meetings in Tamera; 30 EUR / person / night."
+- date: 2017-10-14
+  time: 16:53:08
+  timezone: WEST
+  amount: 210
+  currency: EUR
+  from: World
+  to: Spencer Campbell
+  reason: "Donating credit."
