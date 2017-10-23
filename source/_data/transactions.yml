@@ -9,19 +9,11 @@
 - date: 2017-10-08
   time: 22:53:00
   timezone: WEST
-  amount: 0.01
+  amount: 200
   currency: BTC
-  from: Spencer Campbell
+  from: World
   to: Electrum
-  reason: “Spencer’s Donation”
-- date: 2017-10-08
-  time: 22:53:00
-  timezone: WEST
-  amount: 199.99
-  currency: BTC
-  from: Spencer Campbell
-  to: Electrum
-  reason: “Spencer’s Donation”
+  reason: "Donation from Spencer"
 - date: 2017-10-09
   time: 10:05:00
   timezone: WEST
