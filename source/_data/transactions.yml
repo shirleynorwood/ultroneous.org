@@ -1,3 +1,113 @@
+- date: 2017-10-06
+  time: n/a
+  timezone: WEST
+  amount: 50
+  currency: EUR
+  from: Diogo
+  to: World
+  reason: “Payment for 108 stay”
+- date: 2017-10-08
+  time: 22:53:00
+  timezone: WEST
+  amount: 0.01
+  currency: BTC
+  from: Spencer
+  to: Electrum
+  reason: “Spencer’s Donation”
+- date: 2017-10-08
+  time: 22:53:00
+  timezone: WEST
+  amount: 199.99
+  currency: BTC
+  from: Spencer
+  to: Electrum
+  reason: “Spencer’s Donation”
+- date: 2017-10-09
+  time: 10:05:00
+  timezone: WEST
+  amount: 0.01
+  currency: BTC
+  from: Electrum
+  to: Bitfinex
+  reason: “Transfer”
+- date: 2017-10-09
+  time: 10:39:00
+  timezone: WEST
+  amount: 199.99
+  currency: BTC
+  from: Electrum
+  to: Bitfinex
+  reason: “Transfer”	
+- date: 2017-10-08
+  time: 20:59:00
+  timezone: WEST
+  amount: 45.08000580
+  currency: BTC
+  from: Electrum
+  to: Bitfinex
+  reason: “Transfer”	
+- date: 2017-10-08
+  time: 10:39:00
+  timezone: WEST
+  amount: 45.08000580
+  currency: BTC
+  from: Bitfinex
+  to: World
+  reason: “Trade BTC for ETH”
+- date: 2017-10-08
+  time: 21:47:28
+  timezone: WEST
+  amount: 664.88838518
+  currency: ETH
+  from: World
+  to: Bitfinex
+  reason: “Trade BTC for ETH”	
+- date: 2017-10-08
+  time: 21:47:28
+  timezone: WEST
+  amount: 664.88838518
+  currency: ETH
+  from: Bitfinex
+  to: CoopMyEtherWallet
+  reason: “Trade BTC for ETH”
+- date: 2017-10-09
+  time: 12:08:12
+  timezone: WEST
+  amount: 200
+  currency: BTC
+  from: Bitfinex
+  to: World
+  reason: “Trade BTC for ETH”
+- date: 2017-10-09
+  time: 12:08:12
+  timezone: WEST
+  amount: 2998.48901064
+  currency: ETH
+  from: World
+  to: Bitfinex
+- date: 2017-10-09
+  time: 12:08:12
+  timezone: WEST
+  amount: 2998.48901064
+  currency: ETH
+  from: Bitfinex
+  to: CoopMyEtherWallet
+  reason: “Trade BTC for ETH”
+- date: 2017-10-09
+  time: 12:24:25
+  timezone: WEST
+  amount: 3.30662636
+  currency: ETH
+  from: World
+  to: Bitfinex
+- date: 2017-10-09
+  time: 12:24:25
+  timezone: WEST
+  amount: 3.30662636
+  currency: ETH
+  from: Bitfinex
+  to: CoopMyEtherWallet
+  reason: “Trade BTC for ETH”
 - date: 2017-09-29
   time: n/a
   timezone: WEST
@@ -298,7 +408,7 @@
   time: 19:28:32
   timezone: WEST
   amount: 0.22051679
-  currency: BCH
+  currency: BTC
   from: Bitfinex
   to: Electrum
   reason: "Transfer"
@@ -306,7 +416,7 @@
   time: 19:28:32
   timezone: WEST
   amount: 0.00044402
-  currency: BCH
+  currency: BTC
   from: Bitfinex
   to: World
   reason: "mining fee"
