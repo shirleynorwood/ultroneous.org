@@ -3,7 +3,7 @@
   timezone: WEST
   amount: 50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: “Payment for 108 stay”
 - date: 2017-10-08
@@ -11,7 +11,7 @@
   timezone: WEST
   amount: 0.01
   currency: BTC
-  from: Spencer
+  from: Spencer Campbell
   to: Electrum
   reason: “Spencer’s Donation”
 - date: 2017-10-08
@@ -19,7 +19,7 @@
   timezone: WEST
   amount: 199.99
   currency: BTC
-  from: Spencer
+  from: Spencer Campbell
   to: Electrum
   reason: “Spencer’s Donation”
 - date: 2017-10-09
@@ -113,7 +113,7 @@
   timezone: WEST
   amount: 1.2
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Coffee."
 - date: 2017-09-27
@@ -170,7 +170,7 @@
   amount: 150
   currency: EUR
   from: World
-  to: Diogo
+  to: Dio Alma
   reason: "ETH Sell to Nuno"
 - date: 2017-09-21
   time: 01:52:00
@@ -242,7 +242,7 @@
   amount: 3300
   currency: EUR
   from: World
-  to: Diogo
+  to: Dio Alma
   reason: "Sale to João friend"
 - date: 2017-09-21
   time: 01:48:00
@@ -337,7 +337,7 @@
   timezone: WEST
   amount: 682.70
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: CoopPayPall
   reason: "Transfer"
 - date: 2017-10-03
@@ -490,7 +490,7 @@
   amount: 8.3056
   currency: ETH
   from: Bitfinex
-  to: Arne
+  to: Arne Slawik
   reason: "Transfer"
 - date: 2017-09-18
   time: 3:10:22
@@ -505,7 +505,7 @@
   timezone: WEST
   amount: 2.82
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- BCB Signalling Mirror"
 - date: 2017-10-03
@@ -513,7 +513,7 @@
   timezone: WEST
   amount: 54.99
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "2000W Power Inverter"
 - date: 2017-10-03
@@ -521,7 +521,7 @@
   timezone: WEST
   amount: 10.99
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "20A 12V/24V Solar Charge Controller"
 - date: 2017-10-03
@@ -529,7 +529,7 @@
   timezone: WEST
   amount: 10.95
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Sealey MM18 Pocket Multimiter"
 - date: 2017-10-03
@@ -537,7 +537,7 @@
   timezone: WEST
   amount: 15.35
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- Mechanix Wear gloves"
 - date: 2017-10-03
@@ -545,7 +545,7 @@
   timezone: WEST
   amount: 5.08
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- SAS Survival guide, Collins Gem"
 - date: 2017-10-03
@@ -553,7 +553,7 @@
   timezone: WEST
   amount: 23.48
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- Bacho Laplander Folding Saw"
 - date: 2017-10-03
@@ -561,7 +561,7 @@
   timezone: WEST
   amount: 12.99
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- OUTRY Waterproof Multi-purpose Tarp"
 - date: 2017-10-03
@@ -569,7 +569,7 @@
   timezone: WEST
   amount: 20.99
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- isYoung Hammock with Mosquito Net Parachute Fabric"
 - date: 2017-10-03
@@ -577,7 +577,7 @@
   timezone: WEST
   amount: 17.86
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- Multi purpose folding shovel and pick with carrying pouch."
 - date: 2017-10-03
@@ -585,7 +585,7 @@
   timezone: WEST
   amount: 89.99
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "HQST 100 Watt 12 Volt Monocrystalline Solar Panel"
 - date: 2017-10-03
@@ -593,7 +593,7 @@
   timezone: WEST
   amount: 46.08
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- V12 Bison, Waxy Derby Safety Boot"
 - date: 2017-10-03
@@ -601,7 +601,7 @@
   timezone: WEST
   amount: 18.44
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- CamelBak M.U.L.E. Rain Cover"
 - date: 2017-10-03
@@ -609,7 +609,7 @@
   timezone: WEST
   amount: 6.99
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- Bracelet with paracord, flint, scrapper, compass, whistle and parachute cord bucle."
 - date: 2017-10-03
@@ -617,7 +617,7 @@
   timezone: WEST
   amount: 1.54
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- BCB button compass"
 - date: 2017-10-03
@@ -625,7 +625,7 @@
   timezone: WEST
   amount: 7.79
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- LIVEHITOP USB Rechargeable LED Headlamp."
 - date: 2017-10-03
@@ -633,7 +633,7 @@
   timezone: WEST
   amount: 6.99
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- Brother 550 Paracord 7 Strand Nylon Parachute Cord type III 100feet."
 - date: 2017-10-03
@@ -641,7 +641,7 @@
   timezone: WEST
   amount: 5.99
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- Vdealen Stainless Steel Sporks."
 - date: 2017-10-03
@@ -649,7 +649,7 @@
   timezone: WEST
   amount: 8.49
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- Esbit Pocket Stove Dry Fuel Camp Fire"
 - date: 2017-10-03
@@ -657,7 +657,7 @@
   timezone: WEST
   amount: 33.72
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- TOAKS LIGHT Titanium 550ml Pot"
 - date: 2017-10-03
@@ -665,7 +665,7 @@
   timezone: WEST
   amount: 23.50
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- Uco Alki LED Lantern"
 - date: 2017-10-03
@@ -673,7 +673,7 @@
   timezone: WEST
   amount: 7.00
   currency: GBP
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear- Multi-Functional MOLLE Pouch."
 - date: 2017-10-04
@@ -681,7 +681,7 @@
   timezone: WEST
   amount: 120
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Spencer’s Android Phone"
 - date: 2017-09-29
@@ -689,7 +689,7 @@
   timezone: WEST
   amount: 35.80
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Ticket from Marco de Canaveses to Funcheira to go attend cooperative meeting."
 - date: 2017-09-29
@@ -697,7 +697,7 @@
   timezone: WEST
   amount: 1.20
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Pistachos"
 - date: 2017-09-29
@@ -705,7 +705,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Donut"
 - date: 2017-09-29
@@ -713,7 +713,7 @@
   timezone: WEST
   amount: 1.60
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Nectar Pessego"
 - date: 2017-09-29
@@ -721,7 +721,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Batatas Fritas"
 - date: 2017-09-29
@@ -729,7 +729,7 @@
   timezone: WEST
   amount: 1.35
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Agua 50cl"
 - date: 2017-09-28
@@ -737,7 +737,7 @@
   timezone: WEST
   amount: 6.05
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Ticket from Porto Campanhã to Marco de Canaveses to go meet Andreas."
 - date: 2017-09-28
@@ -745,7 +745,7 @@
   timezone: WEST
   amount: 11
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Taxi from train station to community to go meet Andreas."
 - date: 2017-09-29
@@ -753,7 +753,7 @@
   timezone: WEST
   amount: 11
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Taxi from community to train station to go to Cooperative meeting."
 - date: 2017-09-29
@@ -761,7 +761,7 @@
   timezone: WEST
   amount: 18
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Taxi from Funcheira train station to Tamera to go to Cooperative meeting."
 - date: 2017-09-30
@@ -769,7 +769,7 @@
   timezone: WEST
   amount: 40
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Re-bottle handmade in Portugal Inox 750ml bottle."
 - date: 2017-09-28
@@ -777,7 +777,7 @@
   timezone: WEST
   amount: 1.30
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Salada de Fruta"
 - date: 2017-09-29
@@ -785,7 +785,7 @@
   timezone: WEST
   amount: 7.45
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Salada Vitaminas"
 - date: 2017-09-29
@@ -793,7 +793,7 @@
   timezone: WEST
   amount: 2.30
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Chá Verde c/menta"
 - date: 2017-09-26
@@ -801,7 +801,7 @@
   timezone: WEST
   amount: 175.5
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear-Backpack Camelbak Motherlode"
 - date: 2017-09-27
@@ -809,7 +809,7 @@
   timezone: WEST
   amount: 55.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear-Sleeping bag Forclaz 5/0º Ultralight"
 - date: 2017-09-27
@@ -817,7 +817,7 @@
   timezone: WEST
   amount: 2.29
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear-Dog collar to strap sleeping bag"
 - date: 2017-09-27
@@ -825,7 +825,7 @@
   timezone: WEST
   amount: 2.29
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear-Second Dog collar to strap sleeping bag"
 - date: 2017-09-27
@@ -833,7 +833,7 @@
   timezone: WEST
   amount: 29.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Gear-Shaving machine"
 - date: 2017-09-25
@@ -841,7 +841,7 @@
   timezone: WEST
   amount: 2.55
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Néctar Groselha Preta Bio 1L"
 - date: 2017-09-25
@@ -849,7 +849,7 @@
   timezone: WEST
   amount: 2.55
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Néctar Multifrutos Bio 1L"
 - date: 2017-09-25
@@ -857,7 +857,7 @@
   timezone: WEST
   amount: 2.85
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Bebida Soja Bio Baunilha 1L"
 - date: 2017-09-25
@@ -865,7 +865,7 @@
   timezone: WEST
   amount: 1.94
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Bebida Soja Bio s/Açucar 1L"
 - date: 2017-09-25
@@ -873,7 +873,7 @@
   timezone: WEST
   amount: 3.68
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Pickles Bio 320gr Biodharma"
 - date: 2017-09-25
@@ -881,7 +881,7 @@
   timezone: WEST
   amount: 6.45
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Thootpaste Weleda Calendula"
 - date: 2017-09-25
@@ -889,7 +889,7 @@
   timezone: WEST
   amount: 1.46
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Granulado de Soja Grossa"
 - date: 2017-09-25
@@ -897,7 +897,7 @@
   timezone: WEST
   amount: 1.46
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Granulado de Soja Grossa"
 - date: 2017-09-25
@@ -905,7 +905,7 @@
   timezone: WEST
   amount: 1.93
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Bebida Soja Bio Soria Cálcio 1L"
 - date: 2017-09-25
@@ -913,7 +913,7 @@
   timezone: WEST
   amount: 4.09
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Granula Crua Natura 250gr"
 - date: 2017-09-25
@@ -921,7 +921,7 @@
   timezone: WEST
   amount: 4.31
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Muesli Cranberry Kolln"
 - date: 2017-09-25
@@ -929,7 +929,7 @@
   timezone: WEST
   amount: 10.75
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Sumo de Aloe Vera 1L"
 - date: 2017-09-25
@@ -937,7 +937,7 @@
   timezone: WEST
   amount: 3.95
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Nectar de Pessego 1L"
 - date: 2017-09-25
@@ -945,7 +945,7 @@
   timezone: WEST
   amount: 2.09
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Arroz Branco Indica 500gr."
 - date: 2017-09-25
@@ -953,7 +953,7 @@
   timezone: WEST
   amount: 3.59
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Fusilli Lentilhas 250gr."
 - date: 2017-09-25
@@ -961,7 +961,7 @@
   timezone: WEST
   amount: 3.55
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Bolachas Recheadas c/choc Vegan"
 - date: 2017-09-25
@@ -969,7 +969,7 @@
   timezone: WEST
   amount: 4.55
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Molho Pesto Vegetal 120ml"
 - date: 2017-09-25
@@ -977,7 +977,7 @@
   timezone: WEST
   amount: 3.89
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Fusilli Lentilhas 250gr."
 - date: 2017-09-25
@@ -985,7 +985,7 @@
   timezone: WEST
   amount: 4.35
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Castanha do Brazil 150gr."
 - date: 2017-09-25
@@ -993,7 +993,7 @@
   timezone: WEST
   amount: 1.41
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Tomate redondo"
 - date: 2017-09-25
@@ -1001,7 +1001,7 @@
   timezone: WEST
   amount: 0.99
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Aipo"
 - date: 2017-09-25
@@ -1009,7 +1009,7 @@
   timezone: WEST
   amount: 0.78
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Espinafre"
 - date: 2017-09-25
@@ -1017,7 +1017,7 @@
   timezone: WEST
   amount: 0.99
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Rucula"
 - date: 2017-09-25
@@ -1025,7 +1025,7 @@
   timezone: WEST
   amount: 2.49
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Cogumelo branco 250gr."
 - date: 2017-09-20
@@ -1033,7 +1033,7 @@
   timezone: WEST
   amount: 1.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Compal"
 - date: 2017-09-20
@@ -1041,7 +1041,7 @@
   timezone: WEST
   amount: 1.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Compal"
 - date: 2017-09-20
@@ -1049,7 +1049,7 @@
   timezone: WEST
   amount: 1.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Compal"
 - date: 2017-09-20
@@ -1057,7 +1057,7 @@
   timezone: WEST
   amount: 1.10
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Chamuça"
 - date: 2017-09-20
@@ -1065,7 +1065,7 @@
   timezone: WEST
   amount: 1.10
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Chamuça"
 - date: 2017-09-20
@@ -1073,7 +1073,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Mini-Pizza"
 - date: 2017-09-20
@@ -1081,7 +1081,7 @@
   timezone: WEST
   amount: 1.25
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Sopa do dia"
 - date: 2017-09-20
@@ -1089,7 +1089,7 @@
   timezone: WEST
   amount: 1.25
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Sopa do dia"
 - date: 2017-09-20
@@ -1097,7 +1097,7 @@
   timezone: WEST
   amount: 1.25
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Food-Sopa do dia"
 - date: 2017-09-20
@@ -1105,7 +1105,7 @@
   timezone: WEST
   amount: 10.05
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Road Tax- Taxa da Viaverde from Adagatyia to Porto"
 - date: 2017-09-24
@@ -1113,7 +1113,7 @@
   timezone: WEST
   amount: 1.15
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Chewing gum Tridente"
 - date: 2017-09-25
@@ -1121,7 +1121,7 @@
   timezone: WEST
   amount: 1.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Parking fee in Porto"
 - date: 2017-09-25
@@ -1129,7 +1129,7 @@
   timezone: WEST
   amount: 1.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Parking fee in Porto"
 - date: 2017-09-25
@@ -1137,7 +1137,7 @@
   timezone: WEST
   amount: 2.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Parking fee in Porto"
 - date: 2017-09-25
@@ -1145,7 +1145,7 @@
   timezone: WEST
   amount: 0.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Parking fee in Porto"
 - date: 2017-09-20
@@ -1153,7 +1153,7 @@
   timezone: WEST
   amount: 1.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Coffee"
 - date: 2017-09-23
@@ -1161,7 +1161,7 @@
   timezone: WEST
   amount: 8.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-10kg"
 - date: 2017-09-23
@@ -1169,7 +1169,7 @@
   timezone: WEST
   amount: 8.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-10kg"
 - date: 2017-09-23
@@ -1177,7 +1177,7 @@
   timezone: WEST
   amount: 8.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-10kg"
 - date: 2017-09-23
@@ -1185,7 +1185,7 @@
   timezone: WEST
   amount: 4.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-5kg"
 - date: 2017-09-23
@@ -1193,7 +1193,7 @@
   timezone: WEST
   amount: 4.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-5kg"
 - date: 2017-09-23
@@ -1201,7 +1201,7 @@
   timezone: WEST
   amount: 4.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-5kg"
 - date: 2017-09-23
@@ -1209,7 +1209,7 @@
   timezone: WEST
   amount: 4.00
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-5kg"
 - date: 2017-09-23
@@ -1217,7 +1217,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Dry Clothes-6kg"
 - date: 2017-09-23
@@ -1225,7 +1225,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Dry Clothes-6kg"
 - date: 2017-09-23
@@ -1233,7 +1233,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Dry Clothes-6kg"
 - date: 2017-09-23
@@ -1241,7 +1241,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Dry Clothes-6kg"
 - date: 2017-09-23
@@ -1249,7 +1249,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Dry Clothes-6kg"
 - date: 2017-09-23
@@ -1257,7 +1257,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Dry Clothes-6kg"
 - date: 2017-09-23
@@ -1265,7 +1265,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Dry Clothes-6kg"
 - date: 2017-09-23
@@ -1273,7 +1273,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Dry Clothes-6kg"
 - date: 2017-09-23
@@ -1281,7 +1281,7 @@
   timezone: WEST
   amount: 1.50
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Dry Clothes-6kg"
 - date: 2017-09-23
@@ -1289,7 +1289,7 @@
   timezone: WEST
   amount: 7.49
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-Detergente"
 - date: 2017-09-23
@@ -1297,7 +1297,7 @@
   timezone: WEST
   amount: 4.62
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-Tira nódoas"
 - date: 2017-09-23
@@ -1305,7 +1305,7 @@
   timezone: WEST
   amount: 0.49
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-Sabão"
 - date: 2017-09-23
@@ -1313,7 +1313,7 @@
   timezone: WEST
   amount: 3.99
   currency: EUR
-  from: Diogo
+  from: Dio Alma
   to: World
   reason: "Washing Clothes-Amaciador de roupa"
 - date: 2017-09-12
@@ -6001,7 +6001,7 @@
   timezone: WEST
   amount: 20.00
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Petrol."
 - date: 2017-09-10
@@ -6009,7 +6009,7 @@
   timezone: WEST
   amount: 50.00
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Petrol."
 - date: 2017-09-13
@@ -6017,7 +6017,7 @@
   timezone: WEST
   amount: 66.29
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "food."
 - date: 2017-09-13
@@ -6025,7 +6025,7 @@
   timezone: WEST
   amount: 9.97
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Pencil & notebooks."
 - date: 2017-09-15
@@ -6033,7 +6033,7 @@
   timezone: WEST
   amount: 55.00
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "petrol."
 - date: 2017-09-16
@@ -6041,7 +6041,7 @@
   timezone: WEST
   amount: 68.68
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Petrol."
 - date: 2017-09-18
@@ -6050,14 +6050,14 @@
   amount: 8.3056
   currency: Eth
   from: Veda
-  to: Arne
+  to: Arne Slawik
   reason: "Reimbursement."
 - date: 2017-09-19
   time: n/a
   timezone: WEST
   amount: 14.99
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "mobile Internet."
 - date: 2017-09-19
@@ -6065,7 +6065,7 @@
   timezone: WEST
   amount: 60.98
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Petrol."
 - date: 2017-09-19
@@ -6073,15 +6073,15 @@
   timezone: WEST
   amount: 1500
   currency: EUR
-  from: Arne
-  to: Diogo
+  from: Arne Slawik
+  to: Dio Alma
   reason: "Money for temporary car etc. "
 - date: 2017-09-19
   time: n/a
   timezone: WEST
   amount: 32
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "bank fees for ATM transaction."
 - date: 2017-09-19
@@ -6089,7 +6089,7 @@
   timezone: WEST
   amount: 7.99
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "WD40 for the car."
 - date: 2017-09-21
@@ -6097,7 +6097,7 @@
   timezone: WEST
   amount: 65
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Petrol."
 - date: 2017-09-21
@@ -6105,7 +6105,7 @@
   timezone: WEST
   amount: 8.74
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "food."
 - date: 2017-09-22
@@ -6113,7 +6113,7 @@
   timezone: WEST
   amount: 5.00
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Salad in restaurant."
 - date: 2017-09-24
@@ -6121,7 +6121,7 @@
   timezone: WEST
   amount: 32.00
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Engineoil."
 - date: 2017-09-24
@@ -6129,7 +6129,7 @@
   timezone: WEST
   amount: 57.00
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Petrol."
 - date: 2017-09-24
@@ -6137,7 +6137,7 @@
   timezone: WEST
   amount: 12.25
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Motorwaytaxes."
 - date: 2017-10-06
@@ -6145,7 +6145,7 @@
   timezone: WEST
   amount: 40.03
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Petrol."
 - date: 2017-10-06
@@ -6153,7 +6153,7 @@
   timezone: WEST
   amount: 16.25
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Jerrycan & petrol."
 - date: 2017-10-09
@@ -6161,7 +6161,7 @@
   timezone: WEST
   amount: 6.76
   currency: EUR
-  from: Arne
+  from: Arne Slawik
   to: World
   reason: "Book: 'wake up with everyone around us'."
  
