@@ -6172,3 +6172,91 @@
   from: World
   to: Spencer Campbell
   reason: "Donating credit."
+- date: 2017-10-18
+  time: n/a
+  timezone: WEST
+  amount: 4.75
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Motorwaytaxes."
+- date: 2017-10-18
+  time: n/a
+  timezone: WEST
+  amount: 7.50
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Chocolate."
+- date: 2017-10-18
+  time: n/a
+  timezone: WEST
+  amount: 16.00
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Motorwaytaxes."
+- date: 2017-10-18
+  time: n/a
+  timezone: WEST
+  amount: 10.00
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Petrol."
+- date: 2017-10-18
+  time: n/a
+  timezone: WEST
+  amount: 1.99
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Juice."
+- date: 2017-10-18
+  time: n/a
+  timezone: WEST
+  amount: 4.32
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Almond milk, Olives."
+- date: 2017-10-18
+  time: n/a
+  timezone: WEST
+  amount: 77.77
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Lunch, Organic grocery shopping."
+- date: 2017-10-18
+  time: n/a
+  timezone: WEST
+  amount: 3.35
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Motorwaytaxes."
+- date: 2017-10-18
+  time: n/a
+  timezone: WEST
+  amount: 72.83
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Petrol."
+- date: 2017-10-18
+  time: n/a
+  timezone: WEST
+  amount: 15.00
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Inviting friend in restaurant."
+- date: 2017-10-21
+  time: n/a
+  timezone: WEST
+  amount: 0.50
+  currency: EUR
+  from: Arne Slawik
+  to: World
+  reason: "Toilet."
